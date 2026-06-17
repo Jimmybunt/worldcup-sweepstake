@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 17 Jun 2026, 22:04",
+  "asOf": "Live · 17 Jun 2026, 23:39",
   "matchdays": [
     {
       "date": "Tuesday 16 June",
@@ -54,9 +54,9 @@
         {
           "home": "England",
           "away": "Croatia",
-          "homeScore": 2,
+          "homeScore": 4,
           "awayScore": 2,
-          "state": "LIVE"
+          "state": "FT"
         }
       ]
     },
@@ -647,24 +647,13 @@
         {
           "team": "England",
           "P": 1,
-          "W": 0,
-          "D": 1,
+          "W": 1,
+          "D": 0,
           "L": 0,
-          "GF": 2,
+          "GF": 4,
           "GA": 2,
-          "GD": 0,
-          "Pts": 1
-        },
-        {
-          "team": "Croatia",
-          "P": 1,
-          "W": 0,
-          "D": 1,
-          "L": 0,
-          "GF": 2,
-          "GA": 2,
-          "GD": 0,
-          "Pts": 1
+          "GD": 2,
+          "Pts": 3
         },
         {
           "team": "Ghana",
@@ -686,6 +675,17 @@
           "GF": 0,
           "GA": 0,
           "GD": 0,
+          "Pts": 0
+        },
+        {
+          "team": "Croatia",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 4,
+          "GD": -2,
           "Pts": 0
         }
       ]
