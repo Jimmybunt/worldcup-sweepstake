@@ -1,0 +1,743 @@
+{
+  "asOf": "Wed 17 June, matchday 6",
+  "matchdays": [
+    {
+      "date": "Tuesday 16 June",
+      "matches": [
+        {
+          "home": "France",
+          "away": "Senegal",
+          "homeScore": 3,
+          "awayScore": 1,
+          "state": "FT"
+        },
+        {
+          "home": "Norway",
+          "away": "Iraq",
+          "homeScore": 4,
+          "awayScore": 1,
+          "state": "FT"
+        },
+        {
+          "home": "Argentina",
+          "away": "Algeria",
+          "homeScore": 3,
+          "awayScore": 0,
+          "state": "FT"
+        },
+        {
+          "home": "Iran",
+          "away": "New Zealand",
+          "homeScore": 2,
+          "awayScore": 2,
+          "state": "FT"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday 17 June (today)",
+      "matches": [
+        {
+          "home": "Austria",
+          "away": "Jordan",
+          "homeScore": 3,
+          "awayScore": 1,
+          "state": "FT"
+        },
+        {
+          "home": "Portugal",
+          "away": "DR Congo",
+          "homeScore": 1,
+          "awayScore": 1,
+          "state": "FT"
+        },
+        {
+          "home": "England",
+          "away": "Croatia",
+          "homeScore": 1,
+          "awayScore": 0,
+          "state": "LIVE"
+        },
+        {
+          "home": "Ghana",
+          "away": "Panama",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Thursday 18 June",
+      "matches": [
+        {
+          "home": "Czechia",
+          "away": "South Africa",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Switzerland",
+          "away": "Bosnia and Herzegovina",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Canada",
+          "away": "Qatar",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Mexico",
+          "away": "South Korea",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "name": "A",
+      "teams": [
+        {
+          "team": "Mexico",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 2,
+          "GA": 0,
+          "GD": 2,
+          "Pts": 3
+        },
+        {
+          "team": "South Korea",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 2,
+          "GA": 1,
+          "GD": 1,
+          "Pts": 3
+        },
+        {
+          "team": "Czechia",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 2,
+          "GD": -1,
+          "Pts": 0
+        },
+        {
+          "team": "South Africa",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 0,
+          "GA": 2,
+          "GD": -2,
+          "Pts": 0
+        }
+      ]
+    },
+    {
+      "name": "B",
+      "teams": [
+        {
+          "team": "Switzerland",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Canada",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Qatar",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        }
+      ]
+    },
+    {
+      "name": "C",
+      "teams": [
+        {
+          "team": "Scotland",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 1,
+          "GA": 0,
+          "GD": 1,
+          "Pts": 3
+        },
+        {
+          "team": "Brazil",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Morocco",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Haiti",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 0,
+          "GA": 1,
+          "GD": -1,
+          "Pts": 0
+        }
+      ]
+    },
+    {
+      "name": "D",
+      "teams": [
+        {
+          "team": "USA",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 4,
+          "GA": 1,
+          "GD": 3,
+          "Pts": 3
+        },
+        {
+          "team": "Australia",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 2,
+          "GA": 0,
+          "GD": 2,
+          "Pts": 3
+        },
+        {
+          "team": "Türkiye",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 0,
+          "GA": 2,
+          "GD": -2,
+          "Pts": 0
+        },
+        {
+          "team": "Paraguay",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 4,
+          "GD": -3,
+          "Pts": 0
+        }
+      ]
+    },
+    {
+      "name": "E",
+      "teams": [
+        {
+          "team": "Germany",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 7,
+          "GA": 1,
+          "GD": 6,
+          "Pts": 3
+        },
+        {
+          "team": "Ivory Coast",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 1,
+          "GA": 0,
+          "GD": 1,
+          "Pts": 3
+        },
+        {
+          "team": "Ecuador",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 0,
+          "GA": 1,
+          "GD": -1,
+          "Pts": 0
+        },
+        {
+          "team": "Curaçao",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 7,
+          "GD": -6,
+          "Pts": 0
+        }
+      ]
+    },
+    {
+      "name": "F",
+      "teams": [
+        {
+          "team": "Sweden",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 5,
+          "GA": 1,
+          "GD": 4,
+          "Pts": 3
+        },
+        {
+          "team": "Netherlands",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Japan",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Tunisia",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 5,
+          "GD": -4,
+          "Pts": 0
+        }
+      ]
+    },
+    {
+      "name": "G",
+      "teams": [
+        {
+          "team": "Iran",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "New Zealand",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Belgium",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Egypt",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        }
+      ]
+    },
+    {
+      "name": "H",
+      "teams": [
+        {
+          "team": "Saudi Arabia",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Uruguay",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Spain",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Cape Verde",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 1
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "teams": [
+        {
+          "team": "Norway",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 4,
+          "GA": 1,
+          "GD": 3,
+          "Pts": 3
+        },
+        {
+          "team": "France",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 1,
+          "GD": 2,
+          "Pts": 3
+        },
+        {
+          "team": "Senegal",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 3,
+          "GD": -2,
+          "Pts": 0
+        },
+        {
+          "team": "Iraq",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 4,
+          "GD": -3,
+          "Pts": 0
+        }
+      ]
+    },
+    {
+      "name": "J",
+      "teams": [
+        {
+          "team": "Argentina",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 0,
+          "GD": 3,
+          "Pts": 3
+        },
+        {
+          "team": "Austria",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 1,
+          "GD": 2,
+          "Pts": 3
+        },
+        {
+          "team": "Jordan",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 3,
+          "GD": -2,
+          "Pts": 0
+        },
+        {
+          "team": "Algeria",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 0,
+          "GA": 3,
+          "GD": -3,
+          "Pts": 0
+        }
+      ]
+    },
+    {
+      "name": "K",
+      "teams": [
+        {
+          "team": "Portugal",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "DR Congo",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1
+        },
+        {
+          "team": "Colombia",
+          "P": 0,
+          "W": 0,
+          "D": 0,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 0
+        },
+        {
+          "team": "Uzbekistan",
+          "P": 0,
+          "W": 0,
+          "D": 0,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 0
+        }
+      ]
+    },
+    {
+      "name": "L",
+      "teams": [
+        {
+          "team": "England",
+          "P": 0,
+          "W": 0,
+          "D": 0,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 0
+        },
+        {
+          "team": "Croatia",
+          "P": 0,
+          "W": 0,
+          "D": 0,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 0
+        },
+        {
+          "team": "Ghana",
+          "P": 0,
+          "W": 0,
+          "D": 0,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 0
+        },
+        {
+          "team": "Panama",
+          "P": 0,
+          "W": 0,
+          "D": 0,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 0
+        }
+      ]
+    }
+  ],
+  "scorers": [
+    {
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "goals": 3
+    },
+    {
+      "name": "Kylian Mbappé",
+      "country": "France",
+      "goals": 2
+    },
+    {
+      "name": "Erling Haaland",
+      "country": "Norway",
+      "goals": 2
+    },
+    {
+      "name": "Folarin Balogun",
+      "country": "USA",
+      "goals": 2
+    },
+    {
+      "name": "Kai Havertz",
+      "country": "Germany",
+      "goals": 2
+    },
+    {
+      "name": "Yasin Ayari",
+      "country": "Sweden",
+      "goals": 2
+    },
+    {
+      "name": "Elijah Just",
+      "country": "New Zealand",
+      "goals": 2
+    },
+    {
+      "name": "Vinícius Júnior",
+      "country": "Brazil",
+      "goals": 1
+    }
+  ]
+}
