@@ -1,9 +1,16 @@
 {
-  "asOf": "Wed 17 June, matchday 6",
+  "asOf": "Live · 17 Jun 2026, 21:51",
   "matchdays": [
     {
       "date": "Tuesday 16 June",
       "matches": [
+        {
+          "home": "Iran",
+          "away": "New Zealand",
+          "homeScore": 2,
+          "awayScore": 2,
+          "state": "FT"
+        },
         {
           "home": "France",
           "away": "Senegal",
@@ -12,12 +19,17 @@
           "state": "FT"
         },
         {
-          "home": "Norway",
-          "away": "Iraq",
-          "homeScore": 4,
-          "awayScore": 1,
+          "home": "Iraq",
+          "away": "Norway",
+          "homeScore": 1,
+          "awayScore": 4,
           "state": "FT"
-        },
+        }
+      ]
+    },
+    {
+      "date": "Wednesday 17 June",
+      "matches": [
         {
           "home": "Argentina",
           "away": "Algeria",
@@ -25,18 +37,6 @@
           "awayScore": 0,
           "state": "FT"
         },
-        {
-          "home": "Iran",
-          "away": "New Zealand",
-          "homeScore": 2,
-          "awayScore": 2,
-          "state": "FT"
-        }
-      ]
-    },
-    {
-      "date": "Wednesday 17 June (today)",
-      "matches": [
         {
           "home": "Austria",
           "away": "Jordan",
@@ -54,10 +54,15 @@
         {
           "home": "England",
           "away": "Croatia",
-          "homeScore": 1,
-          "awayScore": 0,
+          "homeScore": 2,
+          "awayScore": 1,
           "state": "LIVE"
-        },
+        }
+      ]
+    },
+    {
+      "date": "Thursday 18 June",
+      "matches": [
         {
           "home": "Ghana",
           "away": "Panama",
@@ -71,12 +76,7 @@
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
-        }
-      ]
-    },
-    {
-      "date": "Thursday 18 June",
-      "matches": [
+        },
         {
           "home": "Czechia",
           "away": "South Africa",
@@ -94,13 +94,6 @@
         {
           "home": "Canada",
           "away": "Qatar",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
-        },
-        {
-          "home": "Mexico",
-          "away": "South Korea",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
@@ -184,7 +177,7 @@
           "Pts": 1
         },
         {
-          "team": "Bosnia and Herzegovina",
+          "team": "Qatar",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -195,7 +188,7 @@
           "Pts": 1
         },
         {
-          "team": "Qatar",
+          "team": "Bosnia and Herzegovina",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -222,7 +215,7 @@
           "Pts": 3
         },
         {
-          "team": "Brazil",
+          "team": "Morocco",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -233,7 +226,7 @@
           "Pts": 1
         },
         {
-          "team": "Morocco",
+          "team": "Brazil",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -369,7 +362,7 @@
           "Pts": 3
         },
         {
-          "team": "Netherlands",
+          "team": "Japan",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -380,7 +373,7 @@
           "Pts": 1
         },
         {
-          "team": "Japan",
+          "team": "Netherlands",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -407,7 +400,7 @@
       "name": "G",
       "teams": [
         {
-          "team": "Iran",
+          "team": "New Zealand",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -418,7 +411,7 @@
           "Pts": 1
         },
         {
-          "team": "New Zealand",
+          "team": "Iran",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -456,7 +449,7 @@
       "name": "H",
       "teams": [
         {
-          "team": "Saudi Arabia",
+          "team": "Uruguay",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -467,7 +460,7 @@
           "Pts": 1
         },
         {
-          "team": "Uruguay",
+          "team": "Saudi Arabia",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -489,7 +482,7 @@
           "Pts": 1
         },
         {
-          "team": "Cape Verde",
+          "team": "Cape Verde Islands",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -603,7 +596,7 @@
       "name": "K",
       "teams": [
         {
-          "team": "Portugal",
+          "team": "DR Congo",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -614,7 +607,7 @@
           "Pts": 1
         },
         {
-          "team": "DR Congo",
+          "team": "Portugal",
           "P": 1,
           "W": 0,
           "D": 1,
@@ -653,25 +646,14 @@
       "teams": [
         {
           "team": "England",
-          "P": 0,
-          "W": 0,
+          "P": 1,
+          "W": 1,
           "D": 0,
           "L": 0,
-          "GF": 0,
+          "GF": 1,
           "GA": 0,
-          "GD": 0,
-          "Pts": 0
-        },
-        {
-          "team": "Croatia",
-          "P": 0,
-          "W": 0,
-          "D": 0,
-          "L": 0,
-          "GF": 0,
-          "GA": 0,
-          "GD": 0,
-          "Pts": 0
+          "GD": 1,
+          "Pts": 3
         },
         {
           "team": "Ghana",
@@ -694,6 +676,17 @@
           "GA": 0,
           "GD": 0,
           "Pts": 0
+        },
+        {
+          "team": "Croatia",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 0,
+          "GA": 1,
+          "GD": -1,
+          "Pts": 0
         }
       ]
     }
@@ -703,16 +696,6 @@
       "name": "Lionel Messi",
       "country": "Argentina",
       "goals": 3
-    },
-    {
-      "name": "Kylian Mbappé",
-      "country": "France",
-      "goals": 2
-    },
-    {
-      "name": "Erling Haaland",
-      "country": "Norway",
-      "goals": 2
     },
     {
       "name": "Folarin Balogun",
@@ -735,9 +718,19 @@
       "goals": 2
     },
     {
-      "name": "Vinícius Júnior",
-      "country": "Brazil",
-      "goals": 1
+      "name": "Kylian Mbappé",
+      "country": "France",
+      "goals": 2
+    },
+    {
+      "name": "Erling Haaland",
+      "country": "Norway",
+      "goals": 2
+    },
+    {
+      "name": "Harry Kane",
+      "country": "England",
+      "goals": 2
     }
   ]
 }
