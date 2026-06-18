@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 18 Jun 2026, 13:31",
+  "asOf": "Live · 18 Jun 2026, 17:00",
   "matchdays": [
     {
       "date": "Wednesday 17 June",
@@ -42,7 +42,7 @@
           "away": "Panama",
           "homeScore": 1,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         },
         {
           "home": "Uzbekistan",
@@ -129,25 +129,25 @@
         },
         {
           "team": "Czechia",
-          "P": 1,
+          "P": 2,
           "W": 0,
-          "D": 0,
+          "D": 1,
           "L": 1,
           "GF": 1,
           "GA": 2,
           "GD": -1,
-          "Pts": 0
+          "Pts": 1
         },
         {
           "team": "South Africa",
-          "P": 1,
+          "P": 2,
           "W": 0,
-          "D": 0,
+          "D": 1,
           "L": 1,
           "GF": 0,
           "GA": 2,
           "GD": -2,
-          "Pts": 0
+          "Pts": 1
         }
       ]
     },
