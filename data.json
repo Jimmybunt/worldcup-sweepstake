@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 18 Jun 2026, 21:42",
+  "asOf": "Live · 18 Jun 2026, 23:33",
   "matchdays": [
     {
       "date": "Wednesday 17 June",
@@ -61,16 +61,16 @@
         {
           "home": "Switzerland",
           "away": "Bosnia and Herzegovina",
-          "homeScore": 1,
-          "awayScore": 0,
-          "state": "LIVE"
+          "homeScore": 4,
+          "awayScore": 1,
+          "state": "FT"
         },
         {
           "home": "Canada",
           "away": "Qatar",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 1,
+          "awayScore": 0,
+          "state": "LIVE"
         }
       ]
     },
@@ -157,45 +157,45 @@
         {
           "team": "Switzerland",
           "P": 2,
-          "W": 0,
-          "D": 2,
+          "W": 1,
+          "D": 1,
           "L": 0,
-          "GF": 1,
+          "GF": 5,
+          "GA": 2,
+          "GD": 3,
+          "Pts": 4
+        },
+        {
+          "team": "Canada",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
           "GA": 1,
-          "GD": 0,
-          "Pts": 2
+          "GD": 1,
+          "Pts": 4
         },
         {
           "team": "Bosnia and Herzegovina",
           "P": 2,
           "W": 0,
-          "D": 2,
-          "L": 0,
-          "GF": 1,
-          "GA": 1,
-          "GD": 0,
-          "Pts": 2
-        },
-        {
-          "team": "Canada",
-          "P": 1,
-          "W": 0,
           "D": 1,
-          "L": 0,
-          "GF": 1,
-          "GA": 1,
-          "GD": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 5,
+          "GD": -3,
           "Pts": 1
         },
         {
           "team": "Qatar",
-          "P": 1,
+          "P": 2,
           "W": 0,
           "D": 1,
-          "L": 0,
+          "L": 1,
           "GF": 1,
-          "GA": 1,
-          "GD": 0,
+          "GA": 2,
+          "GD": -1,
           "Pts": 1
         }
       ]
@@ -698,6 +698,11 @@
       "goals": 3
     },
     {
+      "name": "Cyle Larin",
+      "country": "Canada",
+      "goals": 2
+    },
+    {
       "name": "Folarin Balogun",
       "country": "USA",
       "goals": 2
@@ -725,11 +730,6 @@
     {
       "name": "Erling Haaland",
       "country": "Norway",
-      "goals": 2
-    },
-    {
-      "name": "Harry Kane",
-      "country": "England",
       "goals": 2
     }
   ]
