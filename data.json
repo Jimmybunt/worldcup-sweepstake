@@ -1,32 +1,6 @@
 {
-  "asOf": "Live · 17 Jun 2026, 23:49",
+  "asOf": "Live · 18 Jun 2026, 01:04",
   "matchdays": [
-    {
-      "date": "Tuesday 16 June",
-      "matches": [
-        {
-          "home": "Iran",
-          "away": "New Zealand",
-          "homeScore": 2,
-          "awayScore": 2,
-          "state": "FT"
-        },
-        {
-          "home": "France",
-          "away": "Senegal",
-          "homeScore": 3,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Iraq",
-          "away": "Norway",
-          "homeScore": 1,
-          "awayScore": 4,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Wednesday 17 June",
       "matches": [
@@ -66,9 +40,9 @@
         {
           "home": "Ghana",
           "away": "Panama",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 0,
+          "state": "LIVE"
         },
         {
           "home": "Uzbekistan",
@@ -94,6 +68,32 @@
         {
           "home": "Canada",
           "away": "Qatar",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Friday 19 June",
+      "matches": [
+        {
+          "home": "Mexico",
+          "away": "South Korea",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "USA",
+          "away": "Australia",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Scotland",
+          "away": "Morocco",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
@@ -657,25 +657,25 @@
         },
         {
           "team": "Ghana",
-          "P": 0,
+          "P": 1,
           "W": 0,
-          "D": 0,
+          "D": 1,
           "L": 0,
           "GF": 0,
           "GA": 0,
           "GD": 0,
-          "Pts": 0
+          "Pts": 1
         },
         {
           "team": "Panama",
-          "P": 0,
+          "P": 1,
           "W": 0,
-          "D": 0,
+          "D": 1,
           "L": 0,
           "GF": 0,
           "GA": 0,
           "GD": 0,
-          "Pts": 0
+          "Pts": 1
         },
         {
           "team": "Croatia",
