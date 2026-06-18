@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 18 Jun 2026, 17:00",
+  "asOf": "Live · 18 Jun 2026, 19:26",
   "matchdays": [
     {
       "date": "Wednesday 17 June",
@@ -54,9 +54,9 @@
         {
           "home": "Czechia",
           "away": "South Africa",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 1,
+          "awayScore": 1,
+          "state": "FT"
         },
         {
           "home": "Switzerland",
@@ -133,8 +133,8 @@
           "W": 0,
           "D": 1,
           "L": 1,
-          "GF": 1,
-          "GA": 2,
+          "GF": 2,
+          "GA": 3,
           "GD": -1,
           "Pts": 1
         },
@@ -144,8 +144,8 @@
           "W": 0,
           "D": 1,
           "L": 1,
-          "GF": 0,
-          "GA": 2,
+          "GF": 1,
+          "GA": 3,
           "GD": -2,
           "Pts": 1
         }
