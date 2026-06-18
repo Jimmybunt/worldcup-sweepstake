@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 18 Jun 2026, 01:04",
+  "asOf": "Live · 18 Jun 2026, 05:54",
   "matchdays": [
     {
       "date": "Wednesday 17 June",
@@ -40,16 +40,16 @@
         {
           "home": "Ghana",
           "away": "Panama",
-          "homeScore": 0,
+          "homeScore": 1,
           "awayScore": 0,
           "state": "LIVE"
         },
         {
           "home": "Uzbekistan",
           "away": "Colombia",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 1,
+          "awayScore": 3,
+          "state": "FT"
         },
         {
           "home": "Czechia",
@@ -596,6 +596,17 @@
       "name": "K",
       "teams": [
         {
+          "team": "Colombia",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 1,
+          "GD": 2,
+          "Pts": 3
+        },
+        {
           "team": "DR Congo",
           "P": 1,
           "W": 0,
@@ -618,25 +629,14 @@
           "Pts": 1
         },
         {
-          "team": "Colombia",
-          "P": 0,
-          "W": 0,
-          "D": 0,
-          "L": 0,
-          "GF": 0,
-          "GA": 0,
-          "GD": 0,
-          "Pts": 0
-        },
-        {
           "team": "Uzbekistan",
-          "P": 0,
+          "P": 1,
           "W": 0,
           "D": 0,
-          "L": 0,
-          "GF": 0,
-          "GA": 0,
-          "GD": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 3,
+          "GD": -2,
           "Pts": 0
         }
       ]
@@ -658,24 +658,24 @@
         {
           "team": "Ghana",
           "P": 1,
-          "W": 0,
-          "D": 1,
+          "W": 1,
+          "D": 0,
           "L": 0,
-          "GF": 0,
+          "GF": 1,
           "GA": 0,
-          "GD": 0,
-          "Pts": 1
+          "GD": 1,
+          "Pts": 3
         },
         {
           "team": "Panama",
           "P": 1,
           "W": 0,
-          "D": 1,
-          "L": 0,
+          "D": 0,
+          "L": 1,
           "GF": 0,
-          "GA": 0,
-          "GD": 0,
-          "Pts": 1
+          "GA": 1,
+          "GD": -1,
+          "Pts": 0
         },
         {
           "team": "Croatia",
