@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 18 Jun 2026, 05:54",
+  "asOf": "Live · 18 Jun 2026, 08:35",
   "matchdays": [
     {
       "date": "Wednesday 17 June",
@@ -42,7 +42,7 @@
           "away": "Panama",
           "homeScore": 1,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         },
         {
           "home": "Uzbekistan",
