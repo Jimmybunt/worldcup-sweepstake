@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 19 Jun 2026, 19:09",
+  "asOf": "Live · 19 Jun 2026, 21:01",
   "matchdays": [
     {
       "date": "Thursday 18 June",
@@ -54,9 +54,9 @@
         {
           "home": "USA",
           "away": "Australia",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 2,
+          "awayScore": 0,
+          "state": "LIVE"
         },
         {
           "home": "Scotland",
@@ -254,24 +254,24 @@
       "teams": [
         {
           "team": "USA",
-          "P": 1,
-          "W": 1,
+          "P": 2,
+          "W": 2,
           "D": 0,
           "L": 0,
-          "GF": 4,
+          "GF": 6,
           "GA": 1,
-          "GD": 3,
-          "Pts": 3
+          "GD": 5,
+          "Pts": 6
         },
         {
           "team": "Australia",
-          "P": 1,
+          "P": 2,
           "W": 1,
           "D": 0,
-          "L": 0,
+          "L": 1,
           "GF": 2,
-          "GA": 0,
-          "GD": 2,
+          "GA": 2,
+          "GD": 0,
           "Pts": 3
         },
         {
