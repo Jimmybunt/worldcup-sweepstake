@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 19 Jun 2026, 22:13",
+  "asOf": "Live · 19 Jun 2026, 23:13",
   "matchdays": [
     {
       "date": "Thursday 18 June",
@@ -61,9 +61,9 @@
         {
           "home": "Scotland",
           "away": "Morocco",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 1,
+          "state": "LIVE"
         }
       ]
     },
@@ -205,25 +205,25 @@
       "teams": [
         {
           "team": "Scotland",
-          "P": 1,
+          "P": 2,
           "W": 1,
-          "D": 0,
+          "D": 1,
           "L": 0,
           "GF": 1,
           "GA": 0,
           "GD": 1,
-          "Pts": 3
+          "Pts": 4
         },
         {
           "team": "Morocco",
-          "P": 1,
+          "P": 2,
           "W": 0,
-          "D": 1,
+          "D": 2,
           "L": 0,
           "GF": 1,
           "GA": 1,
           "GD": 0,
-          "Pts": 1
+          "Pts": 2
         },
         {
           "team": "Brazil",
@@ -713,6 +713,11 @@
       "goals": 2
     },
     {
+      "name": "Ismael Saibari",
+      "country": "Morocco",
+      "goals": 2
+    },
+    {
       "name": "Kai Havertz",
       "country": "Germany",
       "goals": 2
@@ -725,11 +730,6 @@
     {
       "name": "Elijah Just",
       "country": "New Zealand",
-      "goals": 2
-    },
-    {
-      "name": "Kylian Mbappé",
-      "country": "France",
       "goals": 2
     }
   ]
