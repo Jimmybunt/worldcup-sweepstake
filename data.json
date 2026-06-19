@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 19 Jun 2026, 01:12",
+  "asOf": "Live · 19 Jun 2026, 06:23",
   "matchdays": [
     {
       "date": "Thursday 18 June",
@@ -47,9 +47,9 @@
         {
           "home": "Mexico",
           "away": "South Korea",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 1,
+          "awayScore": 0,
+          "state": "FT"
         },
         {
           "home": "USA",
@@ -107,24 +107,24 @@
       "teams": [
         {
           "team": "Mexico",
-          "P": 1,
-          "W": 1,
+          "P": 2,
+          "W": 2,
           "D": 0,
           "L": 0,
-          "GF": 2,
+          "GF": 3,
           "GA": 0,
-          "GD": 2,
-          "Pts": 3
+          "GD": 3,
+          "Pts": 6
         },
         {
           "team": "South Korea",
-          "P": 1,
+          "P": 2,
           "W": 1,
           "D": 0,
-          "L": 0,
+          "L": 1,
           "GF": 2,
-          "GA": 1,
-          "GD": 1,
+          "GA": 2,
+          "GD": 0,
           "Pts": 3
         },
         {
