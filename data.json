@@ -1,39 +1,6 @@
 {
-  "asOf": "Live · 18 Jun 2026, 23:33",
+  "asOf": "Live · 19 Jun 2026, 01:12",
   "matchdays": [
-    {
-      "date": "Wednesday 17 June",
-      "matches": [
-        {
-          "home": "Argentina",
-          "away": "Algeria",
-          "homeScore": 3,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "Austria",
-          "away": "Jordan",
-          "homeScore": 3,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Portugal",
-          "away": "DR Congo",
-          "homeScore": 1,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "England",
-          "away": "Croatia",
-          "homeScore": 4,
-          "awayScore": 2,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Thursday 18 June",
       "matches": [
@@ -68,9 +35,9 @@
         {
           "home": "Canada",
           "away": "Qatar",
-          "homeScore": 1,
+          "homeScore": 6,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         }
       ]
     },
@@ -94,6 +61,39 @@
         {
           "home": "Scotland",
           "away": "Morocco",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Saturday 20 June",
+      "matches": [
+        {
+          "home": "Brazil",
+          "away": "Haiti",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Türkiye",
+          "away": "Paraguay",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Netherlands",
+          "away": "Sweden",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Germany",
+          "away": "Ivory Coast",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
@@ -155,6 +155,17 @@
       "name": "B",
       "teams": [
         {
+          "team": "Canada",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 7,
+          "GA": 1,
+          "GD": 6,
+          "Pts": 4
+        },
+        {
           "team": "Switzerland",
           "P": 2,
           "W": 1,
@@ -163,17 +174,6 @@
           "GF": 5,
           "GA": 2,
           "GD": 3,
-          "Pts": 4
-        },
-        {
-          "team": "Canada",
-          "P": 2,
-          "W": 1,
-          "D": 1,
-          "L": 0,
-          "GF": 2,
-          "GA": 1,
-          "GD": 1,
           "Pts": 4
         },
         {
@@ -194,8 +194,8 @@
           "D": 1,
           "L": 1,
           "GF": 1,
-          "GA": 2,
-          "GD": -1,
+          "GA": 7,
+          "GD": -6,
           "Pts": 1
         }
       ]
@@ -698,6 +698,11 @@
       "goals": 3
     },
     {
+      "name": "Jonathan David",
+      "country": "Canada",
+      "goals": 3
+    },
+    {
       "name": "Cyle Larin",
       "country": "Canada",
       "goals": 2
@@ -725,11 +730,6 @@
     {
       "name": "Kylian Mbappé",
       "country": "France",
-      "goals": 2
-    },
-    {
-      "name": "Erling Haaland",
-      "country": "Norway",
       "goals": 2
     }
   ]
