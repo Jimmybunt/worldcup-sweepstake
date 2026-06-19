@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 19 Jun 2026, 21:01",
+  "asOf": "Live · 19 Jun 2026, 22:13",
   "matchdays": [
     {
       "date": "Thursday 18 June",
@@ -56,7 +56,7 @@
           "away": "Australia",
           "homeScore": 2,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         },
         {
           "home": "Scotland",
