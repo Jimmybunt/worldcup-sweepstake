@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 20 Jun 2026, 22:38",
+  "asOf": "Live · 20 Jun 2026, 23:46",
   "matchdays": [
     {
       "date": "Friday 19 June",
@@ -54,9 +54,9 @@
         {
           "home": "Germany",
           "away": "Ivory Coast",
-          "homeScore": 1,
+          "homeScore": 2,
           "awayScore": 1,
-          "state": "LIVE"
+          "state": "FT"
         }
       ]
     },
@@ -302,25 +302,25 @@
       "name": "E",
       "teams": [
         {
-          "team": "Ivory Coast",
+          "team": "Germany",
           "P": 2,
           "W": 2,
           "D": 0,
           "L": 0,
-          "GF": 2,
-          "GA": 0,
-          "GD": 2,
+          "GF": 9,
+          "GA": 2,
+          "GD": 7,
           "Pts": 6
         },
         {
-          "team": "Germany",
+          "team": "Ivory Coast",
           "P": 2,
           "W": 1,
           "D": 0,
           "L": 1,
-          "GF": 7,
+          "GF": 2,
           "GA": 2,
-          "GD": 5,
+          "GD": 0,
           "Pts": 3
         },
         {
@@ -693,6 +693,11 @@
   ],
   "scorers": [
     {
+      "name": "Deniz Undav",
+      "country": "Germany",
+      "goals": 3
+    },
+    {
       "name": "Lionel Messi",
       "country": "Argentina",
       "goals": 3
@@ -724,11 +729,6 @@
     },
     {
       "name": "Kai Havertz",
-      "country": "Germany",
-      "goals": 2
-    },
-    {
-      "name": "Deniz Undav",
       "country": "Germany",
       "goals": 2
     }
