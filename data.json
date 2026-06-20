@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 20 Jun 2026, 18:27",
+  "asOf": "Live · 20 Jun 2026, 19:53",
   "matchdays": [
     {
       "date": "Friday 19 June",
@@ -47,8 +47,8 @@
         {
           "home": "Netherlands",
           "away": "Sweden",
-          "homeScore": 2,
-          "awayScore": 0,
+          "homeScore": 4,
+          "awayScore": 1,
           "state": "LIVE"
         },
         {
@@ -351,26 +351,26 @@
       "name": "F",
       "teams": [
         {
-          "team": "Sweden",
+          "team": "Netherlands",
           "P": 2,
           "W": 1,
           "D": 1,
           "L": 0,
-          "GF": 5,
-          "GA": 1,
-          "GD": 4,
+          "GF": 6,
+          "GA": 3,
+          "GD": 3,
           "Pts": 4
         },
         {
-          "team": "Netherlands",
+          "team": "Sweden",
           "P": 2,
-          "W": 0,
-          "D": 2,
-          "L": 0,
-          "GF": 2,
-          "GA": 2,
-          "GD": 0,
-          "Pts": 2
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 6,
+          "GA": 5,
+          "GD": 1,
+          "Pts": 3
         },
         {
           "team": "Japan",
@@ -728,8 +728,8 @@
       "goals": 2
     },
     {
-      "name": "Yasin Ayari",
-      "country": "Sweden",
+      "name": "Crysencio Summerville",
+      "country": "Netherlands",
       "goals": 2
     }
   ]
