@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 20 Jun 2026, 00:13",
+  "asOf": "Live · 20 Jun 2026, 01:19",
   "matchdays": [
     {
       "date": "Friday 19 June",
@@ -23,7 +23,7 @@
           "away": "Morocco",
           "homeScore": 0,
           "awayScore": 1,
-          "state": "LIVE"
+          "state": "FT"
         }
       ]
     },
