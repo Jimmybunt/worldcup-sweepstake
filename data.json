@@ -1,32 +1,6 @@
 {
-  "asOf": "Live · 20 Jun 2026, 23:46",
+  "asOf": "Live · 21 Jun 2026, 00:51",
   "matchdays": [
-    {
-      "date": "Friday 19 June",
-      "matches": [
-        {
-          "home": "Mexico",
-          "away": "South Korea",
-          "homeScore": 1,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "USA",
-          "away": "Australia",
-          "homeScore": 2,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "Scotland",
-          "away": "Morocco",
-          "homeScore": 0,
-          "awayScore": 1,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Saturday 20 June",
       "matches": [
@@ -94,6 +68,32 @@
         {
           "home": "Uruguay",
           "away": "Cape Verde Islands",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Monday 22 June",
+      "matches": [
+        {
+          "home": "New Zealand",
+          "away": "Egypt",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Argentina",
+          "away": "Austria",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "France",
+          "away": "Iraq",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
