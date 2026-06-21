@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 21 Jun 2026, 00:51",
+  "asOf": "Live · 21 Jun 2026, 03:07",
   "matchdays": [
     {
       "date": "Saturday 20 June",
@@ -40,9 +40,9 @@
         {
           "home": "Ecuador",
           "away": "Curaçao",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 0,
+          "state": "FT"
         },
         {
           "home": "Tunisia",
@@ -325,25 +325,25 @@
         },
         {
           "team": "Ecuador",
-          "P": 1,
+          "P": 2,
           "W": 0,
-          "D": 0,
+          "D": 1,
           "L": 1,
           "GF": 0,
           "GA": 1,
           "GD": -1,
-          "Pts": 0
+          "Pts": 1
         },
         {
           "team": "Curaçao",
-          "P": 1,
+          "P": 2,
           "W": 0,
-          "D": 0,
+          "D": 1,
           "L": 1,
           "GF": 1,
           "GA": 7,
           "GD": -6,
-          "Pts": 0
+          "Pts": 1
         }
       ]
     },
