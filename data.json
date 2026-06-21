@@ -1,39 +1,6 @@
 {
-  "asOf": "Live · 21 Jun 2026, 23:02",
+  "asOf": "Live · 22 Jun 2026, 00:21",
   "matchdays": [
-    {
-      "date": "Saturday 20 June",
-      "matches": [
-        {
-          "home": "Brazil",
-          "away": "Haiti",
-          "homeScore": 3,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "Türkiye",
-          "away": "Paraguay",
-          "homeScore": 0,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Netherlands",
-          "away": "Sweden",
-          "homeScore": 5,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Germany",
-          "away": "Ivory Coast",
-          "homeScore": 2,
-          "awayScore": 1,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Sunday 21 June",
       "matches": [
@@ -68,9 +35,9 @@
         {
           "home": "Uruguay",
           "away": "Cape Verde Islands",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 2,
+          "awayScore": 1,
+          "state": "LIVE"
         }
       ]
     },
@@ -94,6 +61,39 @@
         {
           "home": "France",
           "away": "Iraq",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Tuesday 23 June",
+      "matches": [
+        {
+          "home": "Norway",
+          "away": "Senegal",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Jordan",
+          "away": "Algeria",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "England",
+          "away": "Ghana",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
@@ -449,6 +449,17 @@
       "name": "H",
       "teams": [
         {
+          "team": "Uruguay",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 3,
+          "GA": 2,
+          "GD": 1,
+          "Pts": 4
+        },
+        {
           "team": "Spain",
           "P": 2,
           "W": 1,
@@ -460,28 +471,6 @@
           "Pts": 4
         },
         {
-          "team": "Uruguay",
-          "P": 2,
-          "W": 0,
-          "D": 2,
-          "L": 0,
-          "GF": 1,
-          "GA": 1,
-          "GD": 0,
-          "Pts": 2
-        },
-        {
-          "team": "Cape Verde Islands",
-          "P": 2,
-          "W": 0,
-          "D": 2,
-          "L": 0,
-          "GF": 0,
-          "GA": 0,
-          "GD": 0,
-          "Pts": 2
-        },
-        {
           "team": "Saudi Arabia",
           "P": 2,
           "W": 0,
@@ -490,6 +479,17 @@
           "GF": 1,
           "GA": 5,
           "GD": -4,
+          "Pts": 1
+        },
+        {
+          "team": "Cape Verde Islands",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 1,
+          "GA": 2,
+          "GD": -1,
           "Pts": 1
         }
       ]
