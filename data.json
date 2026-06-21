@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 21 Jun 2026, 18:55",
+  "asOf": "Live · 21 Jun 2026, 20:08",
   "matchdays": [
     {
       "date": "Saturday 20 June",
@@ -54,16 +54,16 @@
         {
           "home": "Spain",
           "away": "Saudi Arabia",
-          "homeScore": 4,
+          "homeScore": 5,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         },
         {
           "home": "Belgium",
           "away": "Iran",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 0,
+          "state": "LIVE"
         },
         {
           "home": "Uruguay",
@@ -400,6 +400,28 @@
       "name": "G",
       "teams": [
         {
+          "team": "Iran",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 2
+        },
+        {
+          "team": "Belgium",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 2
+        },
+        {
           "team": "New Zealand",
           "P": 1,
           "W": 0,
@@ -407,28 +429,6 @@
           "L": 0,
           "GF": 2,
           "GA": 2,
-          "GD": 0,
-          "Pts": 1
-        },
-        {
-          "team": "Iran",
-          "P": 1,
-          "W": 0,
-          "D": 1,
-          "L": 0,
-          "GF": 2,
-          "GA": 2,
-          "GD": 0,
-          "Pts": 1
-        },
-        {
-          "team": "Belgium",
-          "P": 1,
-          "W": 0,
-          "D": 1,
-          "L": 0,
-          "GF": 1,
-          "GA": 1,
           "GD": 0,
           "Pts": 1
         },
