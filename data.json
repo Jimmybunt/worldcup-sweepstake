@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 21 Jun 2026, 21:44",
+  "asOf": "Live · 21 Jun 2026, 23:02",
   "matchdays": [
     {
       "date": "Saturday 20 June",
@@ -63,7 +63,7 @@
           "away": "Iran",
           "homeScore": 0,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         },
         {
           "home": "Uruguay",
@@ -461,14 +461,25 @@
         },
         {
           "team": "Uruguay",
-          "P": 1,
+          "P": 2,
           "W": 0,
-          "D": 1,
+          "D": 2,
           "L": 0,
           "GF": 1,
           "GA": 1,
           "GD": 0,
-          "Pts": 1
+          "Pts": 2
+        },
+        {
+          "team": "Cape Verde Islands",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 2
         },
         {
           "team": "Saudi Arabia",
@@ -479,17 +490,6 @@
           "GF": 1,
           "GA": 5,
           "GD": -4,
-          "Pts": 1
-        },
-        {
-          "team": "Cape Verde Islands",
-          "P": 1,
-          "W": 0,
-          "D": 1,
-          "L": 0,
-          "GF": 0,
-          "GA": 0,
-          "GD": 0,
           "Pts": 1
         }
       ]
