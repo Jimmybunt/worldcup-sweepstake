@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 21 Jun 2026, 15:39",
+  "asOf": "Live · 21 Jun 2026, 17:18",
   "matchdays": [
     {
       "date": "Saturday 20 June",
@@ -54,9 +54,9 @@
         {
           "home": "Spain",
           "away": "Saudi Arabia",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 1,
+          "awayScore": 0,
+          "state": "LIVE"
         },
         {
           "home": "Belgium",
@@ -449,6 +449,28 @@
       "name": "H",
       "teams": [
         {
+          "team": "Saudi Arabia",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 2
+        },
+        {
+          "team": "Spain",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 2
+        },
+        {
           "team": "Uruguay",
           "P": 1,
           "W": 0,
@@ -456,28 +478,6 @@
           "L": 0,
           "GF": 1,
           "GA": 1,
-          "GD": 0,
-          "Pts": 1
-        },
-        {
-          "team": "Saudi Arabia",
-          "P": 1,
-          "W": 0,
-          "D": 1,
-          "L": 0,
-          "GF": 1,
-          "GA": 1,
-          "GD": 0,
-          "Pts": 1
-        },
-        {
-          "team": "Spain",
-          "P": 1,
-          "W": 0,
-          "D": 1,
-          "L": 0,
-          "GF": 0,
-          "GA": 0,
           "GD": 0,
           "Pts": 1
         },
