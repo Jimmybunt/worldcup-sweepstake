@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 22 Jun 2026, 13:56",
+  "asOf": "Live · 22 Jun 2026, 18:24",
   "matchdays": [
     {
       "date": "Sunday 21 June",
@@ -54,9 +54,9 @@
         {
           "home": "Argentina",
           "away": "Austria",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 0,
+          "state": "LIVE"
         },
         {
           "home": "France",
@@ -548,25 +548,25 @@
       "teams": [
         {
           "team": "Argentina",
-          "P": 1,
+          "P": 2,
           "W": 1,
-          "D": 0,
+          "D": 1,
           "L": 0,
           "GF": 3,
           "GA": 0,
           "GD": 3,
-          "Pts": 3
+          "Pts": 4
         },
         {
           "team": "Austria",
-          "P": 1,
+          "P": 2,
           "W": 1,
-          "D": 0,
+          "D": 1,
           "L": 0,
           "GF": 3,
           "GA": 1,
           "GD": 2,
-          "Pts": 3
+          "Pts": 4
         },
         {
           "team": "Jordan",
