@@ -1,46 +1,6 @@
 {
-  "asOf": "Live · 22 Jun 2026, 23:17",
+  "asOf": "Live · 23 Jun 2026, 00:44",
   "matchdays": [
-    {
-      "date": "Sunday 21 June",
-      "matches": [
-        {
-          "home": "Ecuador",
-          "away": "Curaçao",
-          "homeScore": 0,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "Tunisia",
-          "away": "Japan",
-          "homeScore": 0,
-          "awayScore": 4,
-          "state": "FT"
-        },
-        {
-          "home": "Spain",
-          "away": "Saudi Arabia",
-          "homeScore": 4,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "Belgium",
-          "away": "Iran",
-          "homeScore": 0,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "Uruguay",
-          "away": "Cape Verde Islands",
-          "homeScore": 2,
-          "awayScore": 2,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Monday 22 June",
       "matches": [
@@ -94,6 +54,53 @@
         {
           "home": "England",
           "away": "Ghana",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday 24 June",
+      "matches": [
+        {
+          "home": "Panama",
+          "away": "Croatia",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Colombia",
+          "away": "DR Congo",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Switzerland",
+          "away": "Canada",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Bosnia and Herzegovina",
+          "away": "Qatar",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Morocco",
+          "away": "Haiti",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Scotland",
+          "away": "Brazil",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
