@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 22 Jun 2026, 02:43",
+  "asOf": "Live · 22 Jun 2026, 08:03",
   "matchdays": [
     {
       "date": "Sunday 21 June",
@@ -48,8 +48,8 @@
           "home": "New Zealand",
           "away": "Egypt",
           "homeScore": 1,
-          "awayScore": 0,
-          "state": "UP"
+          "awayScore": 3,
+          "state": "FT"
         },
         {
           "home": "Argentina",
@@ -400,14 +400,14 @@
       "name": "G",
       "teams": [
         {
-          "team": "New Zealand",
+          "team": "Egypt",
           "P": 2,
           "W": 1,
           "D": 1,
           "L": 0,
-          "GF": 3,
+          "GF": 4,
           "GA": 2,
-          "GD": 1,
+          "GD": 2,
           "Pts": 4
         },
         {
@@ -433,14 +433,14 @@
           "Pts": 2
         },
         {
-          "team": "Egypt",
+          "team": "New Zealand",
           "P": 2,
           "W": 0,
           "D": 1,
           "L": 1,
-          "GF": 1,
-          "GA": 2,
-          "GD": -1,
+          "GF": 3,
+          "GA": 5,
+          "GD": -2,
           "Pts": 1
         }
       ]
