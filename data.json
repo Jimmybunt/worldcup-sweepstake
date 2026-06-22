@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 22 Jun 2026, 00:21",
+  "asOf": "Live · 22 Jun 2026, 02:43",
   "matchdays": [
     {
       "date": "Sunday 21 June",
@@ -36,8 +36,8 @@
           "home": "Uruguay",
           "away": "Cape Verde Islands",
           "homeScore": 2,
-          "awayScore": 1,
-          "state": "LIVE"
+          "awayScore": 2,
+          "state": "FT"
         }
       ]
     },
@@ -47,8 +47,8 @@
         {
           "home": "New Zealand",
           "away": "Egypt",
-          "homeScore": null,
-          "awayScore": null,
+          "homeScore": 1,
+          "awayScore": 0,
           "state": "UP"
         },
         {
@@ -400,6 +400,17 @@
       "name": "G",
       "teams": [
         {
+          "team": "New Zealand",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 3,
+          "GA": 2,
+          "GD": 1,
+          "Pts": 4
+        },
+        {
           "team": "Iran",
           "P": 2,
           "W": 0,
@@ -422,25 +433,14 @@
           "Pts": 2
         },
         {
-          "team": "New Zealand",
-          "P": 1,
-          "W": 0,
-          "D": 1,
-          "L": 0,
-          "GF": 2,
-          "GA": 2,
-          "GD": 0,
-          "Pts": 1
-        },
-        {
           "team": "Egypt",
-          "P": 1,
+          "P": 2,
           "W": 0,
           "D": 1,
-          "L": 0,
+          "L": 1,
           "GF": 1,
-          "GA": 1,
-          "GD": 0,
+          "GA": 2,
+          "GD": -1,
           "Pts": 1
         }
       ]
@@ -448,17 +448,6 @@
     {
       "name": "H",
       "teams": [
-        {
-          "team": "Uruguay",
-          "P": 2,
-          "W": 1,
-          "D": 1,
-          "L": 0,
-          "GF": 3,
-          "GA": 2,
-          "GD": 1,
-          "Pts": 4
-        },
         {
           "team": "Spain",
           "P": 2,
@@ -471,6 +460,28 @@
           "Pts": 4
         },
         {
+          "team": "Uruguay",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 3,
+          "GA": 3,
+          "GD": 0,
+          "Pts": 2
+        },
+        {
+          "team": "Cape Verde Islands",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 2
+        },
+        {
           "team": "Saudi Arabia",
           "P": 2,
           "W": 0,
@@ -479,17 +490,6 @@
           "GF": 1,
           "GA": 5,
           "GD": -4,
-          "Pts": 1
-        },
-        {
-          "team": "Cape Verde Islands",
-          "P": 2,
-          "W": 0,
-          "D": 1,
-          "L": 1,
-          "GF": 1,
-          "GA": 2,
-          "GD": -1,
           "Pts": 1
         }
       ]
