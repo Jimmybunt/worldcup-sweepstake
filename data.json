@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 23 Jun 2026, 00:44",
+  "asOf": "Live · 23 Jun 2026, 02:34",
   "matchdays": [
     {
       "date": "Monday 22 June",
@@ -21,9 +21,9 @@
         {
           "home": "France",
           "away": "Iraq",
-          "homeScore": 1,
+          "homeScore": 3,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         }
       ]
     },
@@ -33,9 +33,9 @@
         {
           "home": "Norway",
           "away": "Senegal",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 3,
+          "awayScore": 1,
+          "state": "LIVE"
         },
         {
           "home": "Jordan",
@@ -505,36 +505,36 @@
       "name": "I",
       "teams": [
         {
+          "team": "Norway",
+          "P": 2,
+          "W": 2,
+          "D": 0,
+          "L": 0,
+          "GF": 7,
+          "GA": 2,
+          "GD": 5,
+          "Pts": 6
+        },
+        {
           "team": "France",
           "P": 2,
           "W": 2,
           "D": 0,
           "L": 0,
-          "GF": 4,
+          "GF": 6,
           "GA": 1,
-          "GD": 3,
+          "GD": 5,
           "Pts": 6
         },
         {
-          "team": "Norway",
-          "P": 1,
-          "W": 1,
-          "D": 0,
-          "L": 0,
-          "GF": 4,
-          "GA": 1,
-          "GD": 3,
-          "Pts": 3
-        },
-        {
           "team": "Senegal",
-          "P": 1,
+          "P": 2,
           "W": 0,
           "D": 0,
-          "L": 1,
-          "GF": 1,
-          "GA": 3,
-          "GD": -2,
+          "L": 2,
+          "GF": 2,
+          "GA": 6,
+          "GD": -4,
           "Pts": 0
         },
         {
@@ -544,8 +544,8 @@
           "D": 0,
           "L": 2,
           "GF": 1,
-          "GA": 5,
-          "GD": -4,
+          "GA": 7,
+          "GD": -6,
           "Pts": 0
         }
       ]
@@ -705,13 +705,18 @@
       "goals": 5
     },
     {
-      "name": "Deniz Undav",
-      "country": "Germany",
-      "goals": 3
-    },
-    {
       "name": "Kylian Mbappé",
       "country": "France",
+      "goals": 4
+    },
+    {
+      "name": "Erling Haaland",
+      "country": "Norway",
+      "goals": 4
+    },
+    {
+      "name": "Deniz Undav",
+      "country": "Germany",
       "goals": 3
     },
     {
@@ -732,11 +737,6 @@
     {
       "name": "Ismael Saibari",
       "country": "Morocco",
-      "goals": 2
-    },
-    {
-      "name": "Vinicius Junior",
-      "country": "Brazil",
       "goals": 2
     }
   ]
