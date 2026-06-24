@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 24 Jun 2026, 20:20",
+  "asOf": "Live · 24 Jun 2026, 22:00",
   "matchdays": [
     {
       "date": "Tuesday 23 June",
@@ -54,15 +54,15 @@
         {
           "home": "Switzerland",
           "away": "Canada",
-          "homeScore": 0,
-          "awayScore": 0,
+          "homeScore": 2,
+          "awayScore": 1,
           "state": "LIVE"
         },
         {
           "home": "Bosnia and Herzegovina",
           "away": "Qatar",
-          "homeScore": 0,
-          "awayScore": 0,
+          "homeScore": 3,
+          "awayScore": 1,
           "state": "LIVE"
         },
         {
@@ -169,48 +169,48 @@
       "name": "B",
       "teams": [
         {
+          "team": "Switzerland",
+          "P": 3,
+          "W": 2,
+          "D": 1,
+          "L": 0,
+          "GF": 7,
+          "GA": 3,
+          "GD": 4,
+          "Pts": 7
+        },
+        {
           "team": "Canada",
           "P": 3,
           "W": 1,
-          "D": 2,
-          "L": 0,
-          "GF": 7,
-          "GA": 1,
-          "GD": 6,
-          "Pts": 5
-        },
-        {
-          "team": "Switzerland",
-          "P": 3,
-          "W": 1,
-          "D": 2,
-          "L": 0,
-          "GF": 5,
-          "GA": 2,
-          "GD": 3,
-          "Pts": 5
+          "D": 1,
+          "L": 1,
+          "GF": 8,
+          "GA": 3,
+          "GD": 5,
+          "Pts": 4
         },
         {
           "team": "Bosnia and Herzegovina",
           "P": 3,
-          "W": 0,
-          "D": 2,
+          "W": 1,
+          "D": 1,
           "L": 1,
-          "GF": 2,
-          "GA": 5,
-          "GD": -3,
-          "Pts": 2
+          "GF": 5,
+          "GA": 6,
+          "GD": -1,
+          "Pts": 4
         },
         {
           "team": "Qatar",
           "P": 3,
           "W": 0,
-          "D": 2,
-          "L": 1,
-          "GF": 1,
-          "GA": 7,
-          "GD": -6,
-          "Pts": 2
+          "D": 1,
+          "L": 2,
+          "GF": 2,
+          "GA": 10,
+          "GD": -8,
+          "Pts": 1
         }
       ]
     },
@@ -727,6 +727,11 @@
       "goals": 3
     },
     {
+      "name": "Johan Manzambi",
+      "country": "Switzerland",
+      "goals": 3
+    },
+    {
       "name": "Jonathan David",
       "country": "Canada",
       "goals": 3
@@ -739,11 +744,6 @@
     {
       "name": "Folarin Balogun",
       "country": "USA",
-      "goals": 2
-    },
-    {
-      "name": "Ismael Saibari",
-      "country": "Morocco",
       "goals": 2
     }
   ]
