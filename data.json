@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 24 Jun 2026, 02:47",
+  "asOf": "Live · 24 Jun 2026, 06:51",
   "matchdays": [
     {
       "date": "Tuesday 23 June",
@@ -47,9 +47,9 @@
         {
           "home": "Colombia",
           "away": "DR Congo",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 1,
+          "awayScore": 0,
+          "state": "FT"
         },
         {
           "home": "Switzerland",
@@ -610,6 +610,17 @@
       "name": "K",
       "teams": [
         {
+          "team": "Colombia",
+          "P": 2,
+          "W": 2,
+          "D": 0,
+          "L": 0,
+          "GF": 4,
+          "GA": 1,
+          "GD": 3,
+          "Pts": 6
+        },
+        {
           "team": "Portugal",
           "P": 2,
           "W": 1,
@@ -621,25 +632,14 @@
           "Pts": 4
         },
         {
-          "team": "Colombia",
-          "P": 1,
-          "W": 1,
-          "D": 0,
-          "L": 0,
-          "GF": 3,
-          "GA": 1,
-          "GD": 2,
-          "Pts": 3
-        },
-        {
           "team": "DR Congo",
-          "P": 1,
+          "P": 2,
           "W": 0,
           "D": 1,
-          "L": 0,
+          "L": 1,
           "GF": 1,
-          "GA": 1,
-          "GD": 0,
+          "GA": 2,
+          "GD": -1,
           "Pts": 1
         },
         {
