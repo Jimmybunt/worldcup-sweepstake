@@ -1,39 +1,6 @@
 {
-  "asOf": "Live · 24 Jun 2026, 23:18",
+  "asOf": "Live · 25 Jun 2026, 00:35",
   "matchdays": [
-    {
-      "date": "Tuesday 23 June",
-      "matches": [
-        {
-          "home": "Norway",
-          "away": "Senegal",
-          "homeScore": 3,
-          "awayScore": 2,
-          "state": "FT"
-        },
-        {
-          "home": "Jordan",
-          "away": "Algeria",
-          "homeScore": 1,
-          "awayScore": 2,
-          "state": "FT"
-        },
-        {
-          "home": "Portugal",
-          "away": "Uzbekistan",
-          "homeScore": 5,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "England",
-          "away": "Ghana",
-          "homeScore": 0,
-          "awayScore": 0,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Wednesday 24 June",
       "matches": [
@@ -68,15 +35,15 @@
         {
           "home": "Morocco",
           "away": "Haiti",
-          "homeScore": 0,
-          "awayScore": 1,
+          "homeScore": 2,
+          "awayScore": 2,
           "state": "LIVE"
         },
         {
           "home": "Scotland",
           "away": "Brazil",
           "homeScore": 0,
-          "awayScore": 1,
+          "awayScore": 3,
           "state": "LIVE"
         }
       ]
@@ -108,6 +75,53 @@
         {
           "home": "Curaçao",
           "away": "Ivory Coast",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Friday 26 June",
+      "matches": [
+        {
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Japan",
+          "away": "Sweden",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Türkiye",
+          "away": "USA",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Paraguay",
+          "away": "Australia",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Norway",
+          "away": "France",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Senegal",
+          "away": "Iraq",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
@@ -220,13 +234,13 @@
         {
           "team": "Brazil",
           "P": 3,
-          "W": 1,
-          "D": 2,
+          "W": 2,
+          "D": 1,
           "L": 0,
-          "GF": 4,
+          "GF": 7,
           "GA": 1,
-          "GD": 3,
-          "Pts": 5
+          "GD": 6,
+          "Pts": 7
         },
         {
           "team": "Morocco",
@@ -234,8 +248,8 @@
           "W": 1,
           "D": 2,
           "L": 0,
-          "GF": 2,
-          "GA": 1,
+          "GF": 4,
+          "GA": 3,
           "GD": 1,
           "Pts": 5
         },
@@ -243,12 +257,12 @@
           "team": "Scotland",
           "P": 3,
           "W": 1,
-          "D": 1,
-          "L": 1,
+          "D": 0,
+          "L": 2,
           "GF": 1,
-          "GA": 1,
-          "GD": 0,
-          "Pts": 4
+          "GA": 4,
+          "GD": -3,
+          "Pts": 3
         },
         {
           "team": "Haiti",
@@ -256,8 +270,8 @@
           "W": 0,
           "D": 1,
           "L": 2,
-          "GF": 0,
-          "GA": 4,
+          "GF": 2,
+          "GA": 6,
           "GD": -4,
           "Pts": 1
         }
@@ -712,6 +726,11 @@
       "goals": 5
     },
     {
+      "name": "Vinicius Junior",
+      "country": "Brazil",
+      "goals": 4
+    },
+    {
       "name": "Kylian Mbappé",
       "country": "France",
       "goals": 4
@@ -722,8 +741,8 @@
       "goals": 4
     },
     {
-      "name": "Vinicius Junior",
-      "country": "Brazil",
+      "name": "Ismael Saibari",
+      "country": "Morocco",
       "goals": 3
     },
     {
@@ -740,11 +759,6 @@
       "name": "Jonathan David",
       "country": "Canada",
       "goals": 3
-    },
-    {
-      "name": "Cyle Larin",
-      "country": "Canada",
-      "goals": 2
     }
   ]
 }
