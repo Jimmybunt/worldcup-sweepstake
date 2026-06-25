@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 25 Jun 2026, 21:20",
+  "asOf": "Live · 25 Jun 2026, 22:55",
   "matchdays": [
     {
       "date": "Wednesday 24 June",
@@ -68,7 +68,7 @@
         {
           "home": "Ecuador",
           "away": "Germany",
-          "homeScore": 1,
+          "homeScore": 2,
           "awayScore": 1,
           "state": "LIVE"
         },
@@ -76,7 +76,7 @@
           "home": "Curaçao",
           "away": "Ivory Coast",
           "homeScore": 0,
-          "awayScore": 1,
+          "awayScore": 2,
           "state": "LIVE"
         }
       ]
@@ -335,21 +335,21 @@
           "W": 2,
           "D": 1,
           "L": 0,
-          "GF": 9,
-          "GA": 2,
+          "GF": 10,
+          "GA": 3,
           "GD": 7,
           "Pts": 7
         },
         {
           "team": "Ivory Coast",
           "P": 3,
-          "W": 1,
-          "D": 1,
+          "W": 2,
+          "D": 0,
           "L": 1,
-          "GF": 2,
+          "GF": 4,
           "GA": 2,
-          "GD": 0,
-          "Pts": 4
+          "GD": 2,
+          "Pts": 6
         },
         {
           "team": "Ecuador",
@@ -357,8 +357,8 @@
           "W": 0,
           "D": 2,
           "L": 1,
-          "GF": 0,
-          "GA": 1,
+          "GF": 1,
+          "GA": 2,
           "GD": -1,
           "Pts": 2
         },
@@ -366,12 +366,12 @@
           "team": "Curaçao",
           "P": 3,
           "W": 0,
-          "D": 2,
-          "L": 1,
+          "D": 1,
+          "L": 2,
           "GF": 1,
-          "GA": 7,
-          "GD": -6,
-          "Pts": 2
+          "GA": 9,
+          "GD": -8,
+          "Pts": 1
         }
       ]
     },
