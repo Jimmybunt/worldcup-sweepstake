@@ -1,53 +1,6 @@
 {
-  "asOf": "Live · 25 Jun 2026, 22:55",
+  "asOf": "Live · 26 Jun 2026, 00:05",
   "matchdays": [
-    {
-      "date": "Wednesday 24 June",
-      "matches": [
-        {
-          "home": "Panama",
-          "away": "Croatia",
-          "homeScore": 0,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Colombia",
-          "away": "DR Congo",
-          "homeScore": 1,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "Switzerland",
-          "away": "Canada",
-          "homeScore": 2,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Bosnia and Herzegovina",
-          "away": "Qatar",
-          "homeScore": 3,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Morocco",
-          "away": "Haiti",
-          "homeScore": 4,
-          "awayScore": 2,
-          "state": "FT"
-        },
-        {
-          "home": "Scotland",
-          "away": "Brazil",
-          "homeScore": 0,
-          "awayScore": 3,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Thursday 25 June",
       "matches": [
@@ -70,14 +23,14 @@
           "away": "Germany",
           "homeScore": 2,
           "awayScore": 1,
-          "state": "LIVE"
+          "state": "FT"
         },
         {
           "home": "Curaçao",
           "away": "Ivory Coast",
           "homeScore": 0,
           "awayScore": 2,
-          "state": "LIVE"
+          "state": "FT"
         }
       ]
     },
@@ -122,6 +75,53 @@
         {
           "home": "Senegal",
           "away": "Iraq",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Saturday 27 June",
+      "matches": [
+        {
+          "home": "Uruguay",
+          "away": "Spain",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Cape Verde Islands",
+          "away": "Saudi Arabia",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "New Zealand",
+          "away": "Belgium",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Egypt",
+          "away": "Iran",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Panama",
+          "away": "England",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Croatia",
+          "away": "Ghana",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
@@ -333,12 +333,12 @@
           "team": "Germany",
           "P": 3,
           "W": 2,
-          "D": 1,
-          "L": 0,
+          "D": 0,
+          "L": 1,
           "GF": 10,
-          "GA": 3,
-          "GD": 7,
-          "Pts": 7
+          "GA": 4,
+          "GD": 6,
+          "Pts": 6
         },
         {
           "team": "Ivory Coast",
@@ -354,13 +354,13 @@
         {
           "team": "Ecuador",
           "P": 3,
-          "W": 0,
-          "D": 2,
+          "W": 1,
+          "D": 1,
           "L": 1,
-          "GF": 1,
+          "GF": 2,
           "GA": 2,
-          "GD": -1,
-          "Pts": 2
+          "GD": 0,
+          "Pts": 4
         },
         {
           "team": "Curaçao",
@@ -380,47 +380,47 @@
       "teams": [
         {
           "team": "Netherlands",
-          "P": 2,
+          "P": 3,
           "W": 1,
-          "D": 1,
+          "D": 2,
           "L": 0,
           "GF": 7,
           "GA": 3,
           "GD": 4,
-          "Pts": 4
+          "Pts": 5
         },
         {
           "team": "Japan",
-          "P": 2,
+          "P": 3,
           "W": 1,
-          "D": 1,
+          "D": 2,
           "L": 0,
           "GF": 6,
           "GA": 2,
           "GD": 4,
-          "Pts": 4
+          "Pts": 5
         },
         {
           "team": "Sweden",
-          "P": 2,
+          "P": 3,
           "W": 1,
-          "D": 0,
+          "D": 1,
           "L": 1,
           "GF": 6,
           "GA": 6,
           "GD": 0,
-          "Pts": 3
+          "Pts": 4
         },
         {
           "team": "Tunisia",
-          "P": 2,
+          "P": 3,
           "W": 0,
-          "D": 0,
+          "D": 1,
           "L": 2,
           "GF": 1,
           "GA": 9,
           "GD": -8,
-          "Pts": 0
+          "Pts": 1
         }
       ]
     },
