@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 25 Jun 2026, 02:34",
+  "asOf": "Live · 25 Jun 2026, 06:46",
   "matchdays": [
     {
       "date": "Wednesday 24 June",
@@ -55,15 +55,15 @@
           "home": "Czechia",
           "away": "Mexico",
           "homeScore": 0,
-          "awayScore": 0,
-          "state": "LIVE"
+          "awayScore": 3,
+          "state": "FT"
         },
         {
           "home": "South Africa",
           "away": "South Korea",
-          "homeScore": 0,
+          "homeScore": 1,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         },
         {
           "home": "Ecuador",
@@ -136,46 +136,46 @@
         {
           "team": "Mexico",
           "P": 3,
-          "W": 2,
-          "D": 1,
+          "W": 3,
+          "D": 0,
           "L": 0,
-          "GF": 3,
+          "GF": 6,
           "GA": 0,
-          "GD": 3,
-          "Pts": 7
+          "GD": 6,
+          "Pts": 9
         },
         {
-          "team": "South Korea",
+          "team": "South Africa",
           "P": 3,
           "W": 1,
           "D": 1,
           "L": 1,
           "GF": 2,
-          "GA": 2,
-          "GD": 0,
+          "GA": 3,
+          "GD": -1,
           "Pts": 4
+        },
+        {
+          "team": "South Korea",
+          "P": 3,
+          "W": 1,
+          "D": 0,
+          "L": 2,
+          "GF": 2,
+          "GA": 3,
+          "GD": -1,
+          "Pts": 3
         },
         {
           "team": "Czechia",
           "P": 3,
           "W": 0,
-          "D": 2,
-          "L": 1,
+          "D": 1,
+          "L": 2,
           "GF": 2,
-          "GA": 3,
-          "GD": -1,
-          "Pts": 2
-        },
-        {
-          "team": "South Africa",
-          "P": 3,
-          "W": 0,
-          "D": 2,
-          "L": 1,
-          "GF": 1,
-          "GA": 3,
-          "GD": -2,
-          "Pts": 2
+          "GA": 6,
+          "GD": -4,
+          "Pts": 1
         }
       ]
     },
