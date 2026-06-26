@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 26 Jun 2026, 18:17",
+  "asOf": "Live · 26 Jun 2026, 20:05",
   "matchdays": [
     {
       "date": "Thursday 25 June",
@@ -527,47 +527,47 @@
       "teams": [
         {
           "team": "France",
-          "P": 2,
+          "P": 3,
           "W": 2,
-          "D": 0,
+          "D": 1,
           "L": 0,
           "GF": 6,
           "GA": 1,
           "GD": 5,
-          "Pts": 6
+          "Pts": 7
         },
         {
           "team": "Norway",
-          "P": 2,
+          "P": 3,
           "W": 2,
-          "D": 0,
+          "D": 1,
           "L": 0,
           "GF": 7,
           "GA": 3,
           "GD": 4,
-          "Pts": 6
+          "Pts": 7
         },
         {
           "team": "Senegal",
-          "P": 2,
+          "P": 3,
           "W": 0,
-          "D": 0,
+          "D": 1,
           "L": 2,
           "GF": 3,
           "GA": 6,
           "GD": -3,
-          "Pts": 0
+          "Pts": 1
         },
         {
           "team": "Iraq",
-          "P": 2,
+          "P": 3,
           "W": 0,
-          "D": 0,
+          "D": 1,
           "L": 2,
           "GF": 1,
           "GA": 7,
           "GD": -6,
-          "Pts": 0
+          "Pts": 1
         }
       ]
     },
