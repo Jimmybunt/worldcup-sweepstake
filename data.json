@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 26 Jun 2026, 21:50",
+  "asOf": "Live · 26 Jun 2026, 22:55",
   "matchdays": [
     {
       "date": "Thursday 25 June",
@@ -69,15 +69,15 @@
           "home": "Norway",
           "away": "France",
           "homeScore": 1,
-          "awayScore": 3,
-          "state": "LIVE"
+          "awayScore": 4,
+          "state": "FT"
         },
         {
           "home": "Senegal",
           "away": "Iraq",
-          "homeScore": 4,
+          "homeScore": 5,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         }
       ]
     },
@@ -531,9 +531,9 @@
           "W": 3,
           "D": 0,
           "L": 0,
-          "GF": 9,
+          "GF": 10,
           "GA": 2,
-          "GD": 7,
+          "GD": 8,
           "Pts": 9
         },
         {
@@ -543,8 +543,8 @@
           "D": 0,
           "L": 1,
           "GF": 8,
-          "GA": 6,
-          "GD": 2,
+          "GA": 7,
+          "GD": 1,
           "Pts": 6
         },
         {
@@ -553,9 +553,9 @@
           "W": 1,
           "D": 0,
           "L": 2,
-          "GF": 6,
+          "GF": 8,
           "GA": 6,
-          "GD": 0,
+          "GD": 2,
           "Pts": 3
         },
         {
@@ -565,8 +565,8 @@
           "D": 0,
           "L": 3,
           "GF": 1,
-          "GA": 10,
-          "GD": -9,
+          "GA": 12,
+          "GD": -11,
           "Pts": 0
         }
       ]
