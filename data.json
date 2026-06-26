@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 26 Jun 2026, 00:05",
+  "asOf": "Live · 26 Jun 2026, 01:19",
   "matchdays": [
     {
       "date": "Thursday 25 June",
@@ -40,16 +40,16 @@
         {
           "home": "Tunisia",
           "away": "Netherlands",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 2,
+          "awayScore": 2,
+          "state": "LIVE"
         },
         {
           "home": "Japan",
           "away": "Sweden",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 0,
+          "state": "LIVE"
         },
         {
           "home": "Türkiye",
@@ -381,13 +381,13 @@
         {
           "team": "Netherlands",
           "P": 3,
-          "W": 1,
-          "D": 2,
+          "W": 2,
+          "D": 1,
           "L": 0,
-          "GF": 7,
+          "GF": 9,
           "GA": 3,
-          "GD": 4,
-          "Pts": 5
+          "GD": 6,
+          "Pts": 7
         },
         {
           "team": "Japan",
@@ -415,12 +415,12 @@
           "team": "Tunisia",
           "P": 3,
           "W": 0,
-          "D": 1,
-          "L": 2,
+          "D": 0,
+          "L": 3,
           "GF": 1,
-          "GA": 9,
-          "GD": -8,
-          "Pts": 1
+          "GA": 11,
+          "GD": -10,
+          "Pts": 0
         }
       ]
     },
