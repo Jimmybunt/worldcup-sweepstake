@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 28 Jun 2026, 19:55",
+  "asOf": "Live · 28 Jun 2026, 21:04",
   "matchdays": [
     {
       "date": "Saturday 27 June",
@@ -82,9 +82,9 @@
         {
           "home": "South Africa",
           "away": "Canada",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 0,
+          "state": "LIVE"
         }
       ]
     },
