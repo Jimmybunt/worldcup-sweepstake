@@ -1,53 +1,6 @@
 {
-  "asOf": "Live · 28 Jun 2026, 23:14",
+  "asOf": "Live · 29 Jun 2026, 00:17",
   "matchdays": [
-    {
-      "date": "Saturday 27 June",
-      "matches": [
-        {
-          "home": "Uruguay",
-          "away": "Spain",
-          "homeScore": 0,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Cape Verde Islands",
-          "away": "Saudi Arabia",
-          "homeScore": 0,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "New Zealand",
-          "away": "Belgium",
-          "homeScore": 1,
-          "awayScore": 5,
-          "state": "FT"
-        },
-        {
-          "home": "Egypt",
-          "away": "Iran",
-          "homeScore": 1,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Panama",
-          "away": "England",
-          "homeScore": 0,
-          "awayScore": 2,
-          "state": "FT"
-        },
-        {
-          "home": "Croatia",
-          "away": "Ghana",
-          "homeScore": 2,
-          "awayScore": 1,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Sunday 28 June",
       "matches": [
@@ -101,6 +54,32 @@
         {
           "home": "Germany",
           "away": "Paraguay",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Tuesday 30 June",
+      "matches": [
+        {
+          "home": "Netherlands",
+          "away": "Morocco",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Ivory Coast",
+          "away": "Norway",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "France",
+          "away": "Sweden",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
