@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 28 Jun 2026, 03:44",
+  "asOf": "Live · 28 Jun 2026, 07:46",
   "matchdays": [
     {
       "date": "Saturday 27 June",
@@ -68,16 +68,16 @@
         {
           "home": "Jordan",
           "away": "Argentina",
-          "homeScore": 0,
-          "awayScore": 2,
-          "state": "LIVE"
+          "homeScore": 1,
+          "awayScore": 3,
+          "state": "FT"
         },
         {
           "home": "Algeria",
           "away": "Austria",
-          "homeScore": 0,
-          "awayScore": 1,
-          "state": "LIVE"
+          "homeScore": 3,
+          "awayScore": 3,
+          "state": "FT"
         },
         {
           "home": "South Africa",
@@ -100,7 +100,7 @@
         },
         {
           "home": "Germany",
-          "away": null,
+          "away": "Paraguay",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
@@ -559,32 +559,32 @@
           "W": 3,
           "D": 0,
           "L": 0,
-          "GF": 6,
-          "GA": 0,
-          "GD": 6,
+          "GF": 8,
+          "GA": 1,
+          "GD": 7,
           "Pts": 9
         },
         {
           "team": "Austria",
           "P": 3,
-          "W": 2,
-          "D": 0,
+          "W": 1,
+          "D": 1,
           "L": 1,
-          "GF": 4,
-          "GA": 3,
-          "GD": 1,
-          "Pts": 6
+          "GF": 6,
+          "GA": 6,
+          "GD": 0,
+          "Pts": 4
         },
         {
           "team": "Algeria",
           "P": 3,
           "W": 1,
-          "D": 0,
-          "L": 2,
-          "GF": 2,
-          "GA": 5,
-          "GD": -3,
-          "Pts": 3
+          "D": 1,
+          "L": 1,
+          "GF": 5,
+          "GA": 7,
+          "GD": -2,
+          "Pts": 4
         },
         {
           "team": "Jordan",
@@ -592,9 +592,9 @@
           "W": 0,
           "D": 0,
           "L": 3,
-          "GF": 2,
-          "GA": 6,
-          "GD": -4,
+          "GF": 3,
+          "GA": 8,
+          "GD": -5,
           "Pts": 0
         }
       ]
@@ -702,7 +702,7 @@
     {
       "name": "Lionel Messi",
       "country": "Argentina",
-      "goals": 5
+      "goals": 6
     },
     {
       "name": "Vinicius Junior",
