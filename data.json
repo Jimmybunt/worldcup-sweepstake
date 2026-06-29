@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 29 Jun 2026, 21:58",
+  "asOf": "Live · 29 Jun 2026, 23:06",
   "matchdays": [
     {
       "date": "Sunday 28 June",
@@ -54,8 +54,8 @@
         {
           "home": "Germany",
           "away": "Paraguay",
-          "homeScore": 0,
-          "awayScore": 0,
+          "homeScore": 1,
+          "awayScore": 1,
           "state": "LIVE"
         }
       ]
@@ -709,13 +709,13 @@
       "goals": 3
     },
     {
-      "name": "Deniz Undav",
+      "name": "Kai Havertz",
       "country": "Germany",
       "goals": 3
     },
     {
-      "name": "Elijah Just",
-      "country": "New Zealand",
+      "name": "Deniz Undav",
+      "country": "Germany",
       "goals": 3
     }
   ]
