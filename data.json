@@ -1,46 +1,6 @@
 {
-  "asOf": "Live · 29 Jun 2026, 23:06",
+  "asOf": "Live · 30 Jun 2026, 00:11",
   "matchdays": [
-    {
-      "date": "Sunday 28 June",
-      "matches": [
-        {
-          "home": "Colombia",
-          "away": "Portugal",
-          "homeScore": 0,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "DR Congo",
-          "away": "Uzbekistan",
-          "homeScore": 3,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Jordan",
-          "away": "Argentina",
-          "homeScore": 1,
-          "awayScore": 3,
-          "state": "FT"
-        },
-        {
-          "home": "Algeria",
-          "away": "Austria",
-          "homeScore": 3,
-          "awayScore": 3,
-          "state": "FT"
-        },
-        {
-          "home": "South Africa",
-          "away": "Canada",
-          "homeScore": 0,
-          "awayScore": 1,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Monday 29 June",
       "matches": [
@@ -54,7 +14,7 @@
         {
           "home": "Germany",
           "away": "Paraguay",
-          "homeScore": 1,
+          "homeScore": 2,
           "awayScore": 1,
           "state": "LIVE"
         }
@@ -80,6 +40,32 @@
         {
           "home": "France",
           "away": "Sweden",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday 1 July",
+      "matches": [
+        {
+          "home": "Mexico",
+          "away": "Ecuador",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "England",
+          "away": "DR Congo",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Belgium",
+          "away": "Senegal",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
