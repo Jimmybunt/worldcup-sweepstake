@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 30 Jun 2026, 01:17",
+  "asOf": "Live · 30 Jun 2026, 05:35",
   "matchdays": [
     {
       "date": "Monday 29 June",
@@ -14,8 +14,8 @@
         {
           "home": "Germany",
           "away": "Paraguay",
-          "homeScore": 5,
-          "awayScore": 6,
+          "homeScore": 4,
+          "awayScore": 5,
           "state": "FT"
         }
       ]
@@ -26,9 +26,9 @@
         {
           "home": "Netherlands",
           "away": "Morocco",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 3,
+          "awayScore": 4,
+          "state": "FT"
         },
         {
           "home": "Ivory Coast",
