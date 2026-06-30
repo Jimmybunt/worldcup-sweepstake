@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 30 Jun 2026, 16:42",
+  "asOf": "Live · 30 Jun 2026, 18:28",
   "matchdays": [
     {
       "date": "Monday 29 June",
@@ -33,9 +33,9 @@
         {
           "home": "Ivory Coast",
           "away": "Norway",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 0,
+          "state": "LIVE"
         },
         {
           "home": "France",
