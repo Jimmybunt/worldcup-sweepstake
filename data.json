@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 30 Jun 2026, 22:06",
+  "asOf": "Live · 30 Jun 2026, 23:21",
   "matchdays": [
     {
       "date": "Monday 29 June",
@@ -40,7 +40,7 @@
         {
           "home": "France",
           "away": "Sweden",
-          "homeScore": 0,
+          "homeScore": 2,
           "awayScore": 0,
           "state": "LIVE"
         }
@@ -670,6 +670,11 @@
       "goals": 6
     },
     {
+      "name": "Kylian Mbappé",
+      "country": "France",
+      "goals": 5
+    },
+    {
       "name": "Erling Haaland",
       "country": "Norway",
       "goals": 5
@@ -677,11 +682,6 @@
     {
       "name": "Vinicius Junior",
       "country": "Brazil",
-      "goals": 4
-    },
-    {
-      "name": "Kylian Mbappé",
-      "country": "France",
       "goals": 4
     },
     {
