@@ -1,25 +1,6 @@
 {
-  "asOf": "Live · 30 Jun 2026, 23:21",
+  "asOf": "Live · 1 Jul 2026, 00:39",
   "matchdays": [
-    {
-      "date": "Monday 29 June",
-      "matches": [
-        {
-          "home": "Brazil",
-          "away": "Japan",
-          "homeScore": 2,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Germany",
-          "away": "Paraguay",
-          "homeScore": 4,
-          "awayScore": 5,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Tuesday 30 June",
       "matches": [
@@ -40,9 +21,9 @@
         {
           "home": "France",
           "away": "Sweden",
-          "homeScore": 2,
+          "homeScore": 3,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         }
       ]
     },
@@ -66,6 +47,25 @@
         {
           "home": "Belgium",
           "away": "Senegal",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Thursday 2 July",
+      "matches": [
+        {
+          "home": "USA",
+          "away": "Bosnia and Herzegovina",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Spain",
+          "away": "Austria",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
@@ -665,14 +665,14 @@
   ],
   "scorers": [
     {
-      "name": "Lionel Messi",
-      "country": "Argentina",
+      "name": "Kylian Mbappé",
+      "country": "France",
       "goals": 6
     },
     {
-      "name": "Kylian Mbappé",
-      "country": "France",
-      "goals": 5
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "goals": 6
     },
     {
       "name": "Erling Haaland",
