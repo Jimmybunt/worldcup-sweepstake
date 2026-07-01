@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 1 Jul 2026, 21:55",
+  "asOf": "Live · 1 Jul 2026, 23:09",
   "matchdays": [
     {
       "date": "Tuesday 30 June",
@@ -47,8 +47,8 @@
         {
           "home": "Belgium",
           "away": "Senegal",
-          "homeScore": 0,
-          "awayScore": 1,
+          "homeScore": 2,
+          "awayScore": 2,
           "state": "LIVE"
         }
       ]
@@ -695,13 +695,13 @@
       "goals": 4
     },
     {
-      "name": "Julián Quiñones",
-      "country": "Mexico",
-      "goals": 3
+      "name": "Ismaïla Sarr",
+      "country": "Senegal",
+      "goals": 4
     },
     {
-      "name": "Ismael Saibari",
-      "country": "Morocco",
+      "name": "Julián Quiñones",
+      "country": "Mexico",
       "goals": 3
     }
   ]
