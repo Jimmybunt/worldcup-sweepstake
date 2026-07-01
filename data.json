@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 1 Jul 2026, 20:16",
+  "asOf": "Live · 1 Jul 2026, 21:55",
   "matchdays": [
     {
       "date": "Tuesday 30 June",
@@ -47,9 +47,9 @@
         {
           "home": "Belgium",
           "away": "Senegal",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 1,
+          "state": "LIVE"
         }
       ]
     },
