@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 1 Jul 2026, 16:29",
+  "asOf": "Live · 1 Jul 2026, 18:28",
   "matchdays": [
     {
       "date": "Tuesday 30 June",
@@ -40,9 +40,9 @@
         {
           "home": "England",
           "away": "DR Congo",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 1,
+          "state": "LIVE"
         },
         {
           "home": "Belgium",
