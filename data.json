@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 1 Jul 2026, 02:54",
+  "asOf": "Live · 1 Jul 2026, 07:13",
   "matchdays": [
     {
       "date": "Tuesday 30 June",
@@ -33,9 +33,9 @@
         {
           "home": "Mexico",
           "away": "Ecuador",
-          "homeScore": 0,
+          "homeScore": 2,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         },
         {
           "home": "England",
@@ -690,17 +690,17 @@
       "goals": 4
     },
     {
+      "name": "Julián Quiñones",
+      "country": "Mexico",
+      "goals": 3
+    },
+    {
       "name": "Ismael Saibari",
       "country": "Morocco",
       "goals": 3
     },
     {
       "name": "Kai Havertz",
-      "country": "Germany",
-      "goals": 3
-    },
-    {
-      "name": "Deniz Undav",
       "country": "Germany",
       "goals": 3
     }
