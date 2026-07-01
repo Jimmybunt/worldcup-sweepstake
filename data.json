@@ -1,32 +1,6 @@
 {
-  "asOf": "Live · 1 Jul 2026, 23:09",
+  "asOf": "Live · 2 Jul 2026, 00:39",
   "matchdays": [
-    {
-      "date": "Tuesday 30 June",
-      "matches": [
-        {
-          "home": "Netherlands",
-          "away": "Morocco",
-          "homeScore": 3,
-          "awayScore": 4,
-          "state": "FT"
-        },
-        {
-          "home": "Ivory Coast",
-          "away": "Norway",
-          "homeScore": 1,
-          "awayScore": 2,
-          "state": "FT"
-        },
-        {
-          "home": "France",
-          "away": "Sweden",
-          "homeScore": 3,
-          "awayScore": 0,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Wednesday 1 July",
       "matches": [
@@ -47,9 +21,9 @@
         {
           "home": "Belgium",
           "away": "Senegal",
-          "homeScore": 2,
+          "homeScore": 3,
           "awayScore": 2,
-          "state": "LIVE"
+          "state": "FT"
         }
       ]
     },
@@ -66,6 +40,39 @@
         {
           "home": "Spain",
           "away": "Austria",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Friday 3 July",
+      "matches": [
+        {
+          "home": "Portugal",
+          "away": "Croatia",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Switzerland",
+          "away": "Algeria",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Australia",
+          "away": "Egypt",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Argentina",
+          "away": "Cape Verde Islands",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
