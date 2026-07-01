@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 1 Jul 2026, 18:28",
+  "asOf": "Live · 1 Jul 2026, 20:16",
   "matchdays": [
     {
       "date": "Tuesday 30 June",
@@ -40,9 +40,9 @@
         {
           "home": "England",
           "away": "DR Congo",
-          "homeScore": 0,
+          "homeScore": 2,
           "awayScore": 1,
-          "state": "LIVE"
+          "state": "FT"
         },
         {
           "home": "Belgium",
@@ -680,6 +680,11 @@
       "goals": 5
     },
     {
+      "name": "Harry Kane",
+      "country": "England",
+      "goals": 5
+    },
+    {
       "name": "Vinicius Junior",
       "country": "Brazil",
       "goals": 4
@@ -697,11 +702,6 @@
     {
       "name": "Ismael Saibari",
       "country": "Morocco",
-      "goals": 3
-    },
-    {
-      "name": "Kai Havertz",
-      "country": "Germany",
       "goals": 3
     }
   ]
