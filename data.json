@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 2 Jul 2026, 02:35",
+  "asOf": "Live · 2 Jul 2026, 06:38",
   "matchdays": [
     {
       "date": "Wednesday 1 July",
@@ -33,9 +33,9 @@
         {
           "home": "USA",
           "away": "Bosnia and Herzegovina",
-          "homeScore": 1,
+          "homeScore": 2,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         },
         {
           "home": "Spain",
