@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 2 Jul 2026, 21:06",
+  "asOf": "Live · 2 Jul 2026, 22:19",
   "matchdays": [
     {
       "date": "Wednesday 1 July",
@@ -40,9 +40,9 @@
         {
           "home": "Spain",
           "away": "Austria",
-          "homeScore": 1,
+          "homeScore": 3,
           "awayScore": 0,
-          "state": "LIVE"
+          "state": "FT"
         }
       ]
     },
@@ -697,6 +697,11 @@
       "goals": 4
     },
     {
+      "name": "Mikel Oyarzabal",
+      "country": "Spain",
+      "goals": 4
+    },
+    {
       "name": "Ousmane Dembélé",
       "country": "France",
       "goals": 4
@@ -705,11 +710,6 @@
       "name": "Ismaïla Sarr",
       "country": "Senegal",
       "goals": 4
-    },
-    {
-      "name": "Julián Quiñones",
-      "country": "Mexico",
-      "goals": 3
     }
   ]
 }
