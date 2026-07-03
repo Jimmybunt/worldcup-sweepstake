@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 3 Jul 2026, 21:04",
+  "asOf": "Live · 3 Jul 2026, 22:17",
   "matchdays": [
     {
       "date": "Thursday 2 July",
@@ -40,9 +40,9 @@
         {
           "home": "Australia",
           "away": "Egypt",
-          "homeScore": 1,
-          "awayScore": 1,
-          "state": "LIVE"
+          "homeScore": 3,
+          "awayScore": 5,
+          "state": "FT"
         },
         {
           "home": "Argentina",
