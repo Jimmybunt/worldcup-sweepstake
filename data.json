@@ -1,25 +1,6 @@
 {
-  "asOf": "Live · 3 Jul 2026, 23:17",
+  "asOf": "Live · 4 Jul 2026, 00:19",
   "matchdays": [
-    {
-      "date": "Thursday 2 July",
-      "matches": [
-        {
-          "home": "USA",
-          "away": "Bosnia and Herzegovina",
-          "homeScore": 2,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "Spain",
-          "away": "Austria",
-          "homeScore": 3,
-          "awayScore": 0,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Friday 3 July",
       "matches": [
@@ -47,7 +28,7 @@
         {
           "home": "Argentina",
           "away": "Cape Verde Islands",
-          "homeScore": 0,
+          "homeScore": 1,
           "awayScore": 0,
           "state": "LIVE"
         }
@@ -73,6 +54,18 @@
         {
           "home": "Paraguay",
           "away": "France",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Sunday 5 July",
+      "matches": [
+        {
+          "home": "Brazil",
+          "away": "Norway",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
@@ -672,13 +665,13 @@
   ],
   "scorers": [
     {
-      "name": "Kylian Mbappé",
-      "country": "France",
-      "goals": 6
-    },
-    {
       "name": "Lionel Messi",
       "country": "Argentina",
+      "goals": 7
+    },
+    {
+      "name": "Kylian Mbappé",
+      "country": "France",
       "goals": 6
     },
     {
