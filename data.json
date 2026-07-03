@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 3 Jul 2026, 02:12",
+  "asOf": "Live · 3 Jul 2026, 05:55",
   "matchdays": [
     {
       "date": "Thursday 2 July",
@@ -27,15 +27,15 @@
           "home": "Portugal",
           "away": "Croatia",
           "homeScore": 2,
-          "awayScore": 2,
-          "state": "LIVE"
+          "awayScore": 1,
+          "state": "FT"
         },
         {
           "home": "Switzerland",
           "away": "Algeria",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 2,
+          "awayScore": 0,
+          "state": "LIVE"
         },
         {
           "home": "Australia",
