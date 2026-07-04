@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 4 Jul 2026, 19:41",
+  "asOf": "Live · 4 Jul 2026, 20:51",
   "matchdays": [
     {
       "date": "Friday 3 July",
@@ -48,8 +48,8 @@
           "home": "Canada",
           "away": "Morocco",
           "homeScore": 0,
-          "awayScore": 1,
-          "state": "LIVE"
+          "awayScore": 3,
+          "state": "FT"
         },
         {
           "home": "Paraguay",
