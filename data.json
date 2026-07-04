@@ -1,39 +1,6 @@
 {
-  "asOf": "Live · 4 Jul 2026, 23:32",
+  "asOf": "Live · 5 Jul 2026, 00:33",
   "matchdays": [
-    {
-      "date": "Friday 3 July",
-      "matches": [
-        {
-          "home": "Portugal",
-          "away": "Croatia",
-          "homeScore": 2,
-          "awayScore": 1,
-          "state": "FT"
-        },
-        {
-          "home": "Switzerland",
-          "away": "Algeria",
-          "homeScore": 2,
-          "awayScore": 0,
-          "state": "FT"
-        },
-        {
-          "home": "Australia",
-          "away": "Egypt",
-          "homeScore": 3,
-          "awayScore": 5,
-          "state": "FT"
-        },
-        {
-          "home": "Argentina",
-          "away": "Cape Verde Islands",
-          "homeScore": 3,
-          "awayScore": 2,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Saturday 4 July",
       "matches": [
@@ -55,8 +22,8 @@
           "home": "Paraguay",
           "away": "France",
           "homeScore": 0,
-          "awayScore": 0,
-          "state": "LIVE"
+          "awayScore": 1,
+          "state": "FT"
         }
       ]
     },
@@ -66,6 +33,25 @@
         {
           "home": "Brazil",
           "away": "Norway",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Monday 6 July",
+      "matches": [
+        {
+          "home": "Mexico",
+          "away": "England",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        },
+        {
+          "home": "Portugal",
+          "away": "Spain",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
@@ -665,14 +651,14 @@
   ],
   "scorers": [
     {
-      "name": "Lionel Messi",
-      "country": "Argentina",
+      "name": "Kylian Mbappé",
+      "country": "France",
       "goals": 7
     },
     {
-      "name": "Kylian Mbappé",
-      "country": "France",
-      "goals": 6
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "goals": 7
     },
     {
       "name": "Erling Haaland",
