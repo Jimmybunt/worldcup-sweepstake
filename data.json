@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 4 Jul 2026, 01:18",
+  "asOf": "Live · 4 Jul 2026, 05:05",
   "matchdays": [
     {
       "date": "Friday 3 July",
@@ -28,9 +28,9 @@
         {
           "home": "Argentina",
           "away": "Cape Verde Islands",
-          "homeScore": 2,
-          "awayScore": 1,
-          "state": "LIVE"
+          "homeScore": 3,
+          "awayScore": 2,
+          "state": "FT"
         }
       ]
     },
@@ -40,9 +40,9 @@
         {
           "home": "Colombia",
           "away": "Ghana",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 1,
+          "awayScore": 0,
+          "state": "FT"
         },
         {
           "home": "Canada",
