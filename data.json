@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 4 Jul 2026, 00:19",
+  "asOf": "Live · 4 Jul 2026, 01:18",
   "matchdays": [
     {
       "date": "Friday 3 July",
@@ -28,8 +28,8 @@
         {
           "home": "Argentina",
           "away": "Cape Verde Islands",
-          "homeScore": 1,
-          "awayScore": 0,
+          "homeScore": 2,
+          "awayScore": 1,
           "state": "LIVE"
         }
       ]
