@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 5 Jul 2026, 22:45",
+  "asOf": "Live · 5 Jul 2026, 23:40",
   "matchdays": [
     {
       "date": "Saturday 4 July",
@@ -33,9 +33,9 @@
         {
           "home": "Brazil",
           "away": "Norway",
-          "homeScore": 0,
-          "awayScore": 0,
-          "state": "LIVE"
+          "homeScore": 1,
+          "awayScore": 2,
+          "state": "FT"
         }
       ]
     },
@@ -656,14 +656,14 @@
       "goals": 7
     },
     {
-      "name": "Lionel Messi",
-      "country": "Argentina",
+      "name": "Erling Haaland",
+      "country": "Norway",
       "goals": 7
     },
     {
-      "name": "Erling Haaland",
-      "country": "Norway",
-      "goals": 6
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "goals": 7
     },
     {
       "name": "Harry Kane",
