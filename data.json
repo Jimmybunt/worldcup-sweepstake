@@ -1,18 +1,6 @@
 {
-  "asOf": "Live · 6 Jul 2026, 23:49",
+  "asOf": "Live · 7 Jul 2026, 00:49",
   "matchdays": [
-    {
-      "date": "Sunday 5 July",
-      "matches": [
-        {
-          "home": "Brazil",
-          "away": "Norway",
-          "homeScore": 1,
-          "awayScore": 2,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Monday 6 July",
       "matches": [
