@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 6 Jul 2026, 02:21",
+  "asOf": "Live · 6 Jul 2026, 06:39",
   "matchdays": [
     {
       "date": "Sunday 5 July",
@@ -19,9 +19,9 @@
         {
           "home": "Mexico",
           "away": "England",
-          "homeScore": 0,
-          "awayScore": 0,
-          "state": "LIVE"
+          "homeScore": 2,
+          "awayScore": 3,
+          "state": "FT"
         },
         {
           "home": "Portugal",
@@ -668,7 +668,12 @@
     {
       "name": "Harry Kane",
       "country": "England",
-      "goals": 5
+      "goals": 6
+    },
+    {
+      "name": "Julián Quiñones",
+      "country": "Mexico",
+      "goals": 4
     },
     {
       "name": "Vinicius Junior",
@@ -676,18 +681,13 @@
       "goals": 4
     },
     {
+      "name": "Jude Bellingham",
+      "country": "England",
+      "goals": 4
+    },
+    {
       "name": "Mikel Oyarzabal",
       "country": "Spain",
-      "goals": 4
-    },
-    {
-      "name": "Ousmane Dembélé",
-      "country": "France",
-      "goals": 4
-    },
-    {
-      "name": "Ismaïla Sarr",
-      "country": "Senegal",
       "goals": 4
     }
   ]
