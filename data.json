@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 7 Jul 2026, 17:04",
+  "asOf": "Live · 7 Jul 2026, 19:08",
   "matchdays": [
     {
       "date": "Monday 6 July",
@@ -33,9 +33,9 @@
         {
           "home": "Argentina",
           "away": "Egypt",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 3,
+          "awayScore": 2,
+          "state": "LIVE"
         },
         {
           "home": "Switzerland",
@@ -639,6 +639,11 @@
   ],
   "scorers": [
     {
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "goals": 8
+    },
+    {
       "name": "Kylian Mbappé",
       "country": "France",
       "goals": 7
@@ -646,11 +651,6 @@
     {
       "name": "Erling Haaland",
       "country": "Norway",
-      "goals": 7
-    },
-    {
-      "name": "Lionel Messi",
-      "country": "Argentina",
       "goals": 7
     },
     {
