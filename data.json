@@ -1,38 +1,24 @@
 {
-  "asOf": "Live · 8 Jul 2026, 23:46",
+  "asOf": "Live · 9 Jul 2026, 00:46",
   "matchdays": [
-    {
-      "date": "Tuesday 7 July",
-      "matches": [
-        {
-          "home": "USA",
-          "away": "Belgium",
-          "homeScore": 1,
-          "awayScore": 4,
-          "state": "FT"
-        },
-        {
-          "home": "Argentina",
-          "away": "Egypt",
-          "homeScore": 3,
-          "awayScore": 2,
-          "state": "FT"
-        },
-        {
-          "home": "Switzerland",
-          "away": "Colombia",
-          "homeScore": 4,
-          "awayScore": 3,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Thursday 9 July",
       "matches": [
         {
           "home": "France",
           "away": "Morocco",
+          "homeScore": null,
+          "awayScore": null,
+          "state": "UP"
+        }
+      ]
+    },
+    {
+      "date": "Friday 10 July",
+      "matches": [
+        {
+          "home": "Spain",
+          "away": "Belgium",
           "homeScore": null,
           "awayScore": null,
           "state": "UP"
