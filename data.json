@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 9 Jul 2026, 21:07",
+  "asOf": "Live · 9 Jul 2026, 22:39",
   "matchdays": [
     {
       "date": "Thursday 9 July",
@@ -7,7 +7,7 @@
         {
           "home": "France",
           "away": "Morocco",
-          "homeScore": 0,
+          "homeScore": 2,
           "awayScore": 0,
           "state": "LIVE"
         }
@@ -618,14 +618,14 @@
   ],
   "scorers": [
     {
-      "name": "Lionel Messi",
-      "country": "Argentina",
+      "name": "Kylian Mbappé",
+      "country": "France",
       "goals": 8
     },
     {
-      "name": "Kylian Mbappé",
-      "country": "France",
-      "goals": 7
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "goals": 8
     },
     {
       "name": "Erling Haaland",
@@ -636,6 +636,11 @@
       "name": "Harry Kane",
       "country": "England",
       "goals": 6
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "country": "France",
+      "goals": 5
     },
     {
       "name": "Julián Quiñones",
@@ -650,11 +655,6 @@
     {
       "name": "Jude Bellingham",
       "country": "England",
-      "goals": 4
-    },
-    {
-      "name": "Mikel Oyarzabal",
-      "country": "Spain",
       "goals": 4
     }
   ]
