@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 10 Jul 2026, 19:53",
+  "asOf": "Live · 10 Jul 2026, 21:08",
   "matchdays": [
     {
       "date": "Thursday 9 July",
@@ -19,9 +19,9 @@
         {
           "home": "Spain",
           "away": "Belgium",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 1,
+          "awayScore": 1,
+          "state": "LIVE"
         }
       ]
     },
