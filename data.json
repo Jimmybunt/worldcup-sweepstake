@@ -1,27 +1,15 @@
 {
-  "asOf": "Live · 11 Jul 2026, 23:59",
+  "asOf": "Live · 12 Jul 2026, 00:53",
   "matchdays": [
-    {
-      "date": "Friday 10 July",
-      "matches": [
-        {
-          "home": "Spain",
-          "away": "Belgium",
-          "homeScore": 2,
-          "awayScore": 1,
-          "state": "FT"
-        }
-      ]
-    },
     {
       "date": "Saturday 11 July",
       "matches": [
         {
           "home": "Norway",
           "away": "England",
-          "homeScore": 2,
-          "awayScore": 1,
-          "state": "LIVE"
+          "homeScore": 1,
+          "awayScore": 2,
+          "state": "FT"
         }
       ]
     },
@@ -652,7 +640,7 @@
     {
       "name": "Jude Bellingham",
       "country": "England",
-      "goals": 5
+      "goals": 6
     },
     {
       "name": "Ousmane Dembélé",
