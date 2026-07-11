@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 11 Jul 2026, 22:11",
+  "asOf": "Live · 11 Jul 2026, 23:04",
   "matchdays": [
     {
       "date": "Friday 10 July",
@@ -19,8 +19,8 @@
         {
           "home": "Norway",
           "away": "England",
-          "homeScore": 0,
-          "awayScore": 0,
+          "homeScore": 1,
+          "awayScore": 1,
           "state": "LIVE"
         }
       ]
@@ -650,6 +650,11 @@
       "goals": 6
     },
     {
+      "name": "Jude Bellingham",
+      "country": "England",
+      "goals": 5
+    },
+    {
       "name": "Ousmane Dembélé",
       "country": "France",
       "goals": 5
@@ -662,11 +667,6 @@
     {
       "name": "Vinicius Junior",
       "country": "Brazil",
-      "goals": 4
-    },
-    {
-      "name": "Jude Bellingham",
-      "country": "England",
       "goals": 4
     }
   ]
