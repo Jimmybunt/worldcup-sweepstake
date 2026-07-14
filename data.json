@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 14 Jul 2026, 19:50",
+  "asOf": "Live · 14 Jul 2026, 20:59",
   "matchdays": [
     {
       "date": "Tuesday 14 July",
@@ -7,9 +7,9 @@
         {
           "home": "France",
           "away": "Spain",
-          "homeScore": null,
-          "awayScore": null,
-          "state": "UP"
+          "homeScore": 0,
+          "awayScore": 1,
+          "state": "LIVE"
         }
       ]
     },
@@ -643,6 +643,11 @@
       "goals": 6
     },
     {
+      "name": "Mikel Oyarzabal",
+      "country": "Spain",
+      "goals": 5
+    },
+    {
       "name": "Ousmane Dembélé",
       "country": "France",
       "goals": 5
@@ -650,11 +655,6 @@
     {
       "name": "Julián Quiñones",
       "country": "Mexico",
-      "goals": 4
-    },
-    {
-      "name": "Vinicius Junior",
-      "country": "Brazil",
       "goals": 4
     }
   ]
