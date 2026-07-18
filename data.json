@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 18 Jul 2026, 23:02",
+  "asOf": "Live · 18 Jul 2026, 23:56",
   "matchdays": [
     {
       "date": "Saturday 18 July",
@@ -7,8 +7,8 @@
         {
           "home": "France",
           "away": "England",
-          "homeScore": 0,
-          "awayScore": 4,
+          "homeScore": 3,
+          "awayScore": 5,
           "state": "LIVE"
         }
       ]
@@ -620,7 +620,7 @@
     {
       "name": "Kylian Mbappé",
       "country": "France",
-      "goals": 8
+      "goals": 10
     },
     {
       "name": "Lionel Messi",
