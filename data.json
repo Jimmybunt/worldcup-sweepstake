@@ -1,5 +1,5 @@
 {
-  "asOf": "Live · 18 Jul 2026, 23:56",
+  "asOf": "Live · 19 Jul 2026, 00:43",
   "matchdays": [
     {
       "date": "Saturday 18 July",
@@ -7,9 +7,9 @@
         {
           "home": "France",
           "away": "England",
-          "homeScore": 3,
-          "awayScore": 5,
-          "state": "LIVE"
+          "homeScore": 4,
+          "awayScore": 6,
+          "state": "FT"
         }
       ]
     },
@@ -633,23 +633,23 @@
       "goals": 7
     },
     {
+      "name": "Jude Bellingham",
+      "country": "England",
+      "goals": 7
+    },
+    {
       "name": "Harry Kane",
       "country": "England",
       "goals": 6
     },
     {
-      "name": "Jude Bellingham",
-      "country": "England",
+      "name": "Ousmane Dembélé",
+      "country": "France",
       "goals": 6
     },
     {
       "name": "Mikel Oyarzabal",
       "country": "Spain",
-      "goals": 5
-    },
-    {
-      "name": "Ousmane Dembélé",
-      "country": "France",
       "goals": 5
     },
     {
