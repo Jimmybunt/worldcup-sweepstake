@@ -1,19 +1,6 @@
 {
-  "asOf": "Live · 20 Jul 2026, 23:09",
-  "matchdays": [
-    {
-      "date": "Sunday 19 July",
-      "matches": [
-        {
-          "home": "Spain",
-          "away": "Argentina",
-          "homeScore": 1,
-          "awayScore": 0,
-          "state": "FT"
-        }
-      ]
-    }
-  ],
+  "asOf": "Live · 21 Jul 2026, 00:11",
+  "matchdays": [],
   "groups": [
     {
       "name": "A",
